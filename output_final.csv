@@ -1,0 +1,2041 @@
+Number comments,Tier,Title,Votes,Date
+44,staff,Rolling Leaderboards,83,2013-11-05 23:15:34.543000000
+0,contributor,Sample Pandas Tutuorial for newbies,1,2018-07-13 04:16:23.208789800
+2,contributor,DEEP LEARNING + ANN + TITANIC DATASET,3,2018-07-12 20:42:37.410000000
+5,contributor,Active Slack Community For Beginners And Experts,1,2018-07-12 20:30:36.858815800
+0,novice,Looking for a team,0,2018-07-12 13:18:11.748600300
+4,novice,How can I improve my accuracy further?,0,2018-07-12 11:40:33.368798000
+30,novice,"For all newbies to learn ML together, I have created a slack workspace.",0,2018-07-12 06:54:47.926291700
+1,contributor,How To Improve the 82.3% Ticket Grouping Model?,0,2018-07-12 06:01:24.346199000
+0,contributor,"82.3% Using ticket, fare, Pclass and embarked",2,2018-07-12 03:27:43.070000000
+0,novice,Titanic,1,2018-07-11 20:33:23.263000000
+2,novice,EDA  For Titanic Data Chanllege,12,2018-07-11 05:43:53.883000000
+4,novice,Need to merge Train Test Data or not?,0,2018-07-10 06:12:38.251063300
+0,novice,Titanic Prediction Using Ensemble Learning ,0,2018-07-09 03:15:32.060000000
+0,contributor,Titanic_Solution,0,2018-07-08 13:27:43.717000000
+0,novice,Titanic survivor problem,0,2018-07-08 06:33:21.527000000
+0,novice,Titanic_Survivor_Prediction,2,2018-07-08 05:03:58.520000000
+4,contributor,How to perform stacking classification,1,2018-07-07 17:01:27.462071700
+2,novice,80.8% with logistic regression only,4,2018-07-07 13:16:28.656588500
+13,contributor,Is there a place where all the newbies can team up to help each other learn?,3,2018-07-06 20:32:12.692375800
+6,novice,Simple Logistic Classifier yields 75% accuracy; how to improve?,1,2018-07-06 16:31:25.722510100
+4,contributor,Titanic Dataset Using Deep Neural Networks,2,2018-07-06 13:26:11.953000000
+0,novice,Issue with feature names mismatch when running on test data,0,2018-07-06 12:43:03.881883200
+1,novice,Merging Datasts,0,2018-07-05 17:26:54.863475900
+6,novice,Who survives?,6,2018-07-05 12:48:22.180000000
+2,contributor,RandomForestClassifier with GridSearchCV,4,2018-07-05 02:39:18.550000000
+1,expert,How to build a deep neural network Titanic,1,2018-07-04 17:58:32.465379900
+3,contributor,Overfitting on the accuracy,1,2018-07-03 20:19:19.342354600
+0,novice,ML_Titanic,0,2018-07-03 00:03:44.187000000
+2,contributor,4 features  77% accuracy,2,2018-07-02 18:33:16.977000000
+1,novice,Accuracy issue,0,2018-07-01 23:50:37.856364100
+0,expert,Submarineering.MonteCarlo TUTO,0,2018-07-01 22:50:42.533970300
+3,expert,Titanic Deep Net [0.82296],4,2018-07-01 20:53:31.047000000
+0,novice,RMS Titanic,3,2018-07-01 07:51:45.147000000
+0,novice,titanic_sklearn,0,2018-07-01 04:01:20.620000000
+5,contributor,KNN model on titanic dataset,0,2018-06-30 08:09:03.925344700
+0,novice,kernel_Titanic_SVM,0,2018-06-29 14:42:22.830000000
+2,contributor,ValueError: array length 357 does not match index length 418,0,2018-06-29 13:40:58.753221500
+0,contributor,ensemble method,0,2018-06-28 15:15:06.390000000
+0,novice,Titanic - Deep Learning,3,2018-06-28 13:16:42.433000000
+2,novice,Saving file format issue.,1,2018-06-27 20:34:53.868216600
+2,contributor,Beginner for Machine Learning r,12,2018-06-27 16:07:47.007000000
+2,contributor,Titanic Survival Model,0,2018-06-27 10:18:02.907000000
+0,contributor,1st Kernel,2,2018-06-25 20:53:57.470000000
+15,novice,Looking to join a good team,0,2018-06-25 10:32:35.277535000
+3,novice,Naive Bayes(91.6),0,2018-06-25 06:59:17.557000000
+0,novice,Team_Cast(Naive Bayes),3,2018-06-24 03:35:03.197000000
+0,contributor,Titanic-randomForest,1,2018-06-23 16:16:05.593000000
+2,novice,Data Imputation in R,0,2018-06-22 06:08:25.273580800
+2,contributor, What would be the ideal track in this project for beginners?,1,2018-06-22 01:40:08.511623800
+1,contributor,Anybody have an idea how the people with kernels \u003e 0.85167 are doing it?,0,2018-06-21 14:42:26.240005000
+1,contributor,External use of data for teaching purposes,0,2018-06-21 12:13:59.152951200
+0,contributor,Titanic dataset,0,2018-06-19 22:06:33.367000000
+2,novice,Titanic Dataset predictions with machine learning,0,2018-06-19 08:02:37.417000000
+8,contributor,My Heart Will Go On~Titanic Disaster(GridSearchCV),3,2018-06-19 06:38:44.613000000
+10,contributor,I am looking for a dedicated team.,0,2018-06-18 04:43:34.608100300
+2,contributor,Best data-set to get started ,1,2018-06-17 16:00:12.389259000
+6,novice,how to deal with null values of age column??,1,2018-06-17 15:41:29.447823900
+1,novice,ValueError: could not convert string to float: \u0027Iris-virginica\u0027,0,2018-06-17 07:46:32.570439900
+11,contributor,First Project,1,2018-06-16 03:28:03.422635100
+1,contributor,"People with perfect scores, cheating?",1,2018-06-15 20:12:41.697218000
+4,contributor,"Precision = 0.95, how\u0027s that even possible ??",0,2018-06-14 17:10:05.898546300
+2,novice,Pie chart for (fe)male % survived,0,2018-06-13 17:52:31.040211500
+0,novice,titanic - Try to make complex,0,2018-06-13 12:17:11.460000000
+0,novice,titanic - A beginner\u0027s simple implementation,0,2018-06-13 12:13:31.757000000
+0,contributor,Please someone Look into this and tell the ERROR ,0,2018-06-13 10:56:46.847000000
+0,contributor,Setup for Beginner ,1,2018-06-12 20:22:55.569644300
+6,contributor,First try on Titanic,3,2018-06-12 16:51:30.543000000
+0,contributor,DAI June 2018: Workshop Notebook 2,9,2018-06-12 04:16:43.400000000
+2,novice,Looking for R Titanic Spain Team ,0,2018-06-11 20:20:56.626396300
+4,novice,Titanic with Family Survival + TPOT [0.81818],5,2018-06-11 15:38:30.590000000
+3,contributor,Data Science Process: Using Titanic Survivor data,10,2018-06-11 03:20:05.360000000
+0,contributor,"processed some NA , added Variable \u0022Famile_Size\u0022",0,2018-06-10 11:19:13.670000000
+5,expert,Titanic WCG+XGBoost [0.84688],9,2018-06-09 20:52:17.013000000
+0,contributor,A Statistical Analysis of Titanic with ML Models,1,2018-06-08 06:33:46.130000000
+8,novice,I\u0027m looking for a team,0,2018-06-07 19:18:24.984295300
+2,contributor,Deep Learning Attempt,0,2018-06-07 00:42:29.761280400
+0,staff,Titanic Challenge,0,2018-06-06 23:28:01.617000000
+11,contributor,Looking for novice ML students to work and study together with,4,2018-06-06 18:29:10.801445000
+0,novice,Titanic survival with Feature Engineering,0,2018-06-06 17:16:44.387000000
+6,novice,Recursive Forward Elimination Workflow to 0.82296,3,2018-06-06 09:57:59.893000000
+1,contributor,Degrees of Freedom,0,2018-06-05 16:29:09.715270500
+33,expert,Titantic Mega Model - [0.84210],24,2018-06-05 01:37:10.360000000
+0,novice,"Simple Neural Network, Ensembling, Keras, Titanic",0,2018-06-04 11:11:40.897000000
+0,novice,Titanic,1,2018-06-03 11:53:24.587000000
+2,contributor,Titanic Survival Prediction (Top 20%),0,2018-06-03 10:00:10.053000000
+7,contributor,Simple prediction with just age and sex features,10,2018-06-01 14:42:50.233000000
+2,contributor,A method to handle ordered categorical features,0,2018-06-01 12:59:20.330000000
+13,contributor,Titanic Using Ticket Groupings,10,2018-06-01 10:37:28.937000000
+2,contributor,How much score is too much?,1,2018-05-31 15:03:47.403543600
+4,contributor,New Team,0,2018-05-31 14:22:18.394636900
+31,novice,Looking for team.,5,2018-05-31 09:56:54.902893700
+0,contributor,Titantic Data Set,2,2018-05-30 21:26:04.010000000
+2,contributor,"First Kernal,Pytanic using various Algorithms ",2,2018-05-29 18:45:53.333000000
+2,novice,A beginners doubt! ,1,2018-05-29 17:38:17.362220700
+2,contributor,Should I move to another competition?,0,2018-05-29 14:38:21.276614100
+28,novice,looking for new team,0,2018-05-29 13:05:57.900314600
+6,novice,What does CV imply about the data?,0,2018-05-29 06:21:55.370991300
+2,contributor,Titanic-How I scored above .80(Vis + Feature Engg),5,2018-05-29 04:43:13.507000000
+5,contributor,What else I can do to improve the prediction?,0,2018-05-27 12:11:54.391400600
+0,contributor,Hyperparameterized CatBoost,0,2018-05-26 16:16:35.313000000
+7,contributor,Could anyone help me out to understand how Title of passenger can help to predict whether he/she survived or not?,0,2018-05-26 11:54:45.739241000
+5,novice, 3 Strategies Analyzing Age and Their Impact ,7,2018-05-26 11:03:08.533000000
+2,novice,(Newbie question)what does it mean by \u0022dropping feature\u0022,0,2018-05-26 02:42:57.629831800
+12,novice,79% Need Your Help,0,2018-05-25 23:52:18.353000000
+2,contributor,You should One Hot Encode to make better models,2,2018-05-25 13:21:01.039309600
+26,novice,looking for a team,0,2018-05-25 09:13:26.324870700
+0,contributor,FirstScratchInPy,0,2018-05-25 06:28:11.850000000
+0,contributor,"Titanic Problem, Begginer ",5,2018-05-24 20:28:16.323000000
+4,contributor,How to get past 80%,0,2018-05-24 14:53:44.447317600
+5,contributor,Titanic Survival Prediction,14,2018-05-24 00:40:19.093000000
+16,expert,How to score over 82% Titanic,14,2018-05-23 18:57:17.872462400
+0,novice,TITANIC,1,2018-05-22 19:52:13.450000000
+0,contributor,shinyafujita_04,0,2018-05-22 15:34:59.843000000
+0,contributor,shinyafujita_03,0,2018-05-22 14:26:43.007000000
+3,novice,Looking for a team,0,2018-05-22 11:21:23.675346900
+0,contributor,shinyafujita_02,0,2018-05-22 11:02:09.753000000
+0,novice,HelloWorld,0,2018-05-22 06:59:37.820000000
+31,novice,Looking for team - new ,4,2018-05-22 02:31:56.906029000
+3,novice,what exactly we learn from this?,0,2018-05-21 08:17:39.949062000
+0,contributor,Deeply Titanic,12,2018-05-19 14:08:31.340000000
+10,novice,Titanic Learning First Try,11,2018-05-19 03:44:33.867000000
+22,expert,Titanic using Name only [0.81818],22,2018-05-18 13:37:08.897000000
+0,contributor,shinyafujita_01,0,2018-05-18 01:46:05.673000000
+1,contributor,Practice Skills,0,2018-05-16 16:20:52.793287400
+2,contributor,AdaBoostClassifier and GradientBoostingClassifier,0,2018-05-16 07:44:46.840000000
+0,contributor,HelloWorld-Kernel,1,2018-05-15 19:41:57.390000000
+1,novice,Confused about how to process Pclass feature,1,2018-05-14 12:13:16.326526600
+2,novice,Titanic Disaster: Machine Learning Step by Step ,8,2018-05-12 11:27:48.043000000
+3,novice,Scoring Zero?,0,2018-05-11 19:49:26.556811300
+0,novice,welcome,2,2018-05-10 18:40:07.157000000
+35,novice,Looking for a team!I\u0027m beginner with Python!,8,2018-05-10 12:54:15.227580500
+10,novice,Looking for a team !!!,0,2018-05-10 09:51:30.372202300
+1,novice,I have just Started with R,0,2018-05-09 10:04:50.660337000
+0,novice,Beginners in data science,0,2018-05-09 09:36:12.380208800
+4,novice,can i use MATLAB here?,1,2018-05-09 03:18:58.137452000
+0,novice,Difference between tree and SEM categorical moderator with random slope and intercept,0,2018-05-08 14:13:46.776205100
+6,novice,looking for a team,1,2018-05-08 10:15:42.705189900
+20,contributor,What’s a good score? ,10,2018-05-08 02:19:20.944598600
+0,novice,"Titanic EDA, Modeling and Evaluation-step-by-step",0,2018-05-07 12:31:20.947000000
+0,novice,Titanic Returns with 98.80 plus Advanced Tut 2018,5,2018-05-07 09:21:55.543000000
+6,contributor,"Got the results, but don\u0027t know how to use it",0,2018-05-06 13:30:12.895300200
+77,novice,Looking For a team (beginner),2,2018-05-05 20:59:19.906748900
+2,contributor,Minimal Titanic Approach,3,2018-05-05 16:30:23.977000000
+0,novice,"92% epoch, but 75% score!?!?",0,2018-05-05 02:01:50.094408700
+41,contributor,Titanic practice by Davidcoxon,74,2018-05-05 01:08:28.893000000
+4,contributor,This is my first kernel - Titanic,0,2018-05-03 15:02:02.167000000
+4,contributor,What \u0027s model for this?,2,2018-05-03 10:26:30.696948900
+1,novice,Looking for a team,2,2018-05-03 07:35:28.899898200
+5,novice,Titanic Code (2 May 18),15,2018-05-02 08:52:05.470000000
+0,novice,Simple Logistic Regression ,4,2018-04-29 21:12:52.623000000
+9,contributor,Can I use survived to train Ages?,1,2018-04-28 00:30:15.636464900
+2,novice,Missing value in the test data,0,2018-04-26 17:08:06.731860400
+0,contributor,Getting 891 rows for titanic dataset but 418 entries as per the guidlines,0,2018-04-26 12:59:20.381252400
+4,novice,Looking for Good Team to solve Titanic Problem Using Python ,0,2018-04-26 11:11:01.367167700
+9,novice,Feature engineering beginner - when does creating a new feature improve model?,5,2018-04-26 05:55:45.773212300
+7,novice,Looking to team up with people who work on R,0,2018-04-26 02:30:41.195759300
+3,novice,New- Looking for Team,0,2018-04-25 13:00:56.064472500
+2,novice,Titanic: ML tutorial on small dataset - [0.82296],8,2018-04-25 07:09:45.207000000
+0,novice,titanic prediction,2,2018-04-25 05:55:30.140000000
+11,contributor,"Titanic Starter with XGBoost, 173/209 LB",7,2018-04-25 02:19:26.923000000
+5,contributor,Titanic model with XGB classifier,7,2018-04-24 05:49:54.367000000
+7,novice,Unable to get the prediction right for titanic dataset?,0,2018-04-23 18:17:56.814460300
+2,novice,Can i ask to join in one nice team please,0,2018-04-23 06:29:05.902632100
+0,novice,titanic model using Logistic regression,0,2018-04-23 03:05:11.367000000
+20,novice,Two people looking for new teammembers,0,2018-04-22 15:02:21.389225600
+2,contributor,Titanic Exploratory Data Analysis,0,2018-04-21 23:11:03.263000000
+2,novice,Titanic - How to start (A beginners path),11,2018-04-21 19:47:39.843000000
+2,contributor,Titanic Public - Indian English ,4,2018-04-21 05:29:02.420000000
+0,novice,"New to Kaggle, Some Experience in Data Analysis",2,2018-04-20 18:46:17.139321300
+13,contributor,What about the Parents? My Path to Top 4%,7,2018-04-20 16:20:36.243000000
+7,novice,Data analytics newbie looking for a team,0,2018-04-20 10:08:54.641309900
+5,novice,Does it help to convert age and fare into categorical variables?,1,2018-04-20 02:03:54.899273100
+2,novice,Titanic: a simple beginner\u0027s approach,10,2018-04-19 01:33:32.480000000
+5,novice,download data error,0,2018-04-18 06:29:19.702293500
+3,contributor,ValueError: could not convert string to float: \u0027male\u0027,0,2018-04-16 19:20:02.169220600
+2,novice,Sinking of the Titanic in ML,0,2018-04-15 14:13:06.900000000
+3,contributor,Titanic-Ensembling,2,2018-04-15 09:39:08.237000000
+2,contributor,Models for Titanic,0,2018-04-15 09:01:22.440000000
+3,contributor,xgboost,0,2018-04-13 19:30:36.440168200
+16,contributor,"Titanic, a step-by-step intro to Machine Learning",72,2018-04-13 05:38:07.163000000
+59,novice,Beginners Data Science \u0026 Machine Learning Team - Python,0,2018-04-12 17:39:05.789954700
+0,novice,First Go,0,2018-04-12 13:01:15.493000000
+0,novice,Titanic using Tensorflow #3 (deeper than #2),0,2018-04-12 12:33:07.493000000
+4,novice,Please help me find an error,0,2018-04-12 09:27:33.138144900
+5,novice,CV score much higher than test set,0,2018-04-12 06:42:30.609485700
+3,novice,Titanic using Tensorflow #2 (lower than expected),0,2018-04-11 14:56:48.550000000
+0,contributor,analysis the data,0,2018-04-11 14:48:58.187510900
+2,contributor,Random Forest Classifier,3,2018-04-11 12:43:36.393000000
+0,novice,Titanic Survivor,0,2018-04-11 10:48:50.607000000
+2,contributor,Titanic kernal V1,0,2018-04-10 05:29:01.517000000
+44,contributor,Data analysis and feature extraction with Python,90,2018-04-09 05:29:52.910000000
+1,contributor,Rmd df_print table width?,0,2018-04-08 23:14:38.129199900
+3,novice,Titanic using Tensorflow,0,2018-04-08 01:08:47.787000000
+10,novice,Anyone ready for teaming-up? I just finished Andrew Ng\u0027s Specialization. Need 4 people.,0,2018-04-07 08:16:01.498329700
+0,novice,Titanic prediction (TF2),2,2018-04-06 13:20:52.903000000
+2,contributor,I am new to kaggle and data science. Want to join a team.,0,2018-04-06 10:29:41.444152700
+0,novice,Sarcasm Detection ,0,2018-04-06 06:03:54.996018700
+3,novice,Neural Network,0,2018-04-05 13:10:47.497463100
+2,contributor,Titanic Analysis(Newbie),3,2018-04-04 21:55:01.650000000
+2,novice,Titanic_Python_notebook,1,2018-04-04 12:39:14.613000000
+0,novice,What if I was on the Titanic,2,2018-04-03 13:10:59.027000000
+9,contributor,The preprocessing framework with Titanic,5,2018-04-03 08:09:57.520000000
+0,novice,"Machine Learning works in Azure, but not in Excel. Help!",0,2018-04-03 00:45:34.572691700
+3,novice,how to predict,0,2018-04-02 20:41:21.573832600
+2,contributor,Titanic Survivor Prediction,5,2018-04-02 17:44:43.573000000
+1,contributor,imputing missing age,0,2018-04-02 11:02:49.412394100
+2,contributor,impute_missing_age,1,2018-04-02 10:39:15.870000000
+6,novice,Zero Accuracy,2,2018-04-02 00:21:27.583708600
+9,contributor,CV Score vs Public Submission Score Very Different,1,2018-04-01 15:45:24.690793100
+70,novice,I am completely new so I created a team for newbie,3,2018-04-01 09:43:50.086072600
+23,contributor,Titanic: A Tidy Caret Approach - (0.8086),20,2018-03-31 20:17:49.390000000
+6,novice,Hey! I\u0027m new here. Just finished Andrew Ng\u0027s DL Specialization. Would anyone want to team up?,4,2018-03-31 10:37:09.572573900
+1,contributor,2.5% improvement by averaging models!,0,2018-03-31 04:32:15.826603200
+5,contributor,is.na does not work on Embarked Feature,0,2018-03-30 06:52:28.485070900
+2,contributor,"Multiple LR-Pclass, Sex, Age, Sib, Parch, Fare",1,2018-03-29 17:10:35.313000000
+2,contributor,Different Score in submission and offline,0,2018-03-29 16:49:41.837476300
+2,contributor,Kaggle Titanic with Tensorflow,7,2018-03-28 21:47:24.070000000
+2,contributor,1.0 score?,0,2018-03-28 14:05:16.502054000
+0,contributor,Seaborn.heatmap,0,2018-03-28 09:14:05.074904300
+0,contributor,cant delete comment,0,2018-03-28 08:46:55.709254300
+2,contributor,KNN classification,0,2018-03-28 06:32:13.720000000
+0,novice,Few issues with speedml python package on Macbook,0,2018-03-27 03:35:49.781864200
+3,novice,Titanic score,0,2018-03-27 02:52:21.938138800
+9,contributor,How to deal with missing data? ,4,2018-03-26 21:22:18.167000000
+18,expert,XGBoost model with minimalistic features,24,2018-03-26 15:44:48.297000000
+1,novice,"leave you email ,join  new team",0,2018-03-25 08:44:27.225054500
+5,novice,"I\u0027m new for Kaggle, looking for a team",1,2018-03-25 06:02:51.641968200
+2,novice,"Softmax classify not working on this task, why?",0,2018-03-25 00:20:02.353164600
+29,novice,Searching for a Team,1,2018-03-24 19:01:12.323673200
+0,novice,Titanic code,1,2018-03-24 15:17:11.070000000
+2,contributor,Support Vector Implementation Model,3,2018-03-24 09:56:37.187000000
+2,novice,look for a new team,0,2018-03-24 08:02:00.776074800
+0,novice,Titanic (First Attempt),0,2018-03-23 21:52:56.893000000
+1,contributor,lol...,0,2018-03-23 13:37:33.938022600
+0,novice,Forecasting methods book ,0,2018-03-23 13:22:42.239641800
+1,novice,Looking for a team to get started,0,2018-03-23 10:07:00.485333700
+3,expert,Titanic in Python SVM,2,2018-03-23 00:54:54.807000000
+2,contributor,Binning of train_df and test_df,1,2018-03-22 21:17:27.240547700
+0,novice,Lets team up !!,0,2018-03-22 18:08:39.884465200
+0,contributor,Regressed Predictive Model For Titanic Survivors,0,2018-03-22 12:16:10.150000000
+0,contributor,hard work,0,2018-03-22 10:59:33.417300900
+12,novice,Best score for a single classifier,1,2018-03-22 05:45:20.784548500
+0,contributor,Doubt in finding cutoffs through Logistic Regression in R,0,2018-03-21 11:46:00.772078100
+2,novice,"I\u0027m new for Kaggle, looking for a team",0,2018-03-21 07:54:28.866310600
+2,contributor,Titanic,2,2018-03-20 20:11:35.580000000
+2,contributor,asdfghj,1,2018-03-20 07:17:46.327170700
+2,contributor,Tensorflow Custom Estimator Titanic,0,2018-03-20 02:22:23.453000000
+4,expert,Titanic Ticket-only study,2,2018-03-19 21:59:49.333000000
+3,contributor,Titanic Survival Prediction,2,2018-03-19 19:20:37.317000000
+101,novice,"I\u0027m new for Kaggle, looking for a team",13,2018-03-19 14:49:20.220710100
+0,contributor,Quick EDA for beginners ,2,2018-03-19 09:45:58.027000000
+4,novice,Unable to submit prediciton,0,2018-03-19 03:41:44.407698600
+4,contributor,Tensorflow DNNClassifier Titanic: basic approach,3,2018-03-19 01:30:10.077000000
+12,novice,Titanic Project,10,2018-03-19 00:57:02.940000000
+3,contributor,Analysis of algorithms,0,2018-03-18 17:53:54.313000000
+2,novice,Kaggle beginner Looking for a team,1,2018-03-18 08:21:28.596784900
+54,novice,can we create a team (beginners),5,2018-03-18 07:08:08.536923600
+3,contributor,New Kaggler can we create team and learn together ?,0,2018-03-18 04:30:52.798473900
+0,novice,Titanic Analysis,0,2018-03-17 11:39:05.250000000
+3,contributor,Basic guide for beginners,15,2018-03-17 08:03:28.067000000
+0,contributor,Titanic Prediction: Deep learning(Tensorflow),2,2018-03-17 07:07:57.720000000
+5,contributor,Stacking ensemble,13,2018-03-16 19:03:47.240000000
+2,contributor,Titanic problem,0,2018-03-15 22:54:33.457000000
+2,contributor,Titanic: Survived or Not Survived?,6,2018-03-15 15:10:36.327000000
+3,contributor,My first machine learning project- Titanic,4,2018-03-15 07:17:33.793000000
+11,novice,New Kaggler looking for a team,0,2018-03-15 01:52:27.226748700
+0,contributor,Missing values,0,2018-03-13 15:52:41.746659800
+0,contributor,titanic_deepanjal_gupta,0,2018-03-13 14:27:45.430000000
+6,novice,Why people can have same ticket number in data? Thanks.,2,2018-03-13 09:47:14.464398900
+0,contributor,Here We Are: Starting on the Titanic Practice Comp,0,2018-03-13 07:59:01.617000000
+5,contributor,A quick dive into h2o with python,8,2018-03-12 10:02:22.990000000
+2,contributor,Titanic Tragedy: Exploratory Data Analysis,0,2018-03-11 15:16:26.310000000
+2,contributor,Titanic,2,2018-03-10 20:58:30.837000000
+3,novice,What to do?,0,2018-03-10 05:02:46.037390600
+0,novice,trouble with knn ,0,2018-03-10 02:30:54.580000000
+0,novice,The Survival of Titanic disaster  (0.80382) ,0,2018-03-09 08:32:41.610000000
+3,contributor,Please help with a tiny problem,0,2018-03-08 17:18:53.006272100
+0,contributor,Titanic Survivors using Python,0,2018-03-08 07:01:53.700000000
+3,contributor,Fork of Titanic ML using SVM,0,2018-03-08 05:15:33.253000000
+3,contributor,Artificial Neural Network using Keras,7,2018-03-08 02:34:18.023000000
+0,contributor,Feature engineering and model evaluation,3,2018-03-08 02:33:14.633000000
+2,expert,Minimalistic Titanic in Python LightGBM ,0,2018-03-07 18:41:33.080000000
+3,contributor,Minimalistic XGB with Python,2,2018-03-07 15:01:52.503000000
+56,contributor,"I am new to ML and Kaggle, looking for a team, can we team up? Thanks!",5,2018-03-07 12:50:25.259079900
+35,contributor,Looking for a 3-4 Member team with basic knowledge of ML and Python,0,2018-03-07 06:04:48.744105200
+6,novice,Saving csv,0,2018-03-07 05:19:31.418848700
+2,novice,Randomforest acting weird,0,2018-03-07 02:09:07.547000000
+1,contributor,New to Kaggle,0,2018-03-07 02:01:52.539538800
+0,contributor,Titanic with NN,0,2018-03-06 12:54:19.193000000
+0,novice,credit card fruad,0,2018-03-06 10:43:52.311285000
+4,contributor,Fork of Titanic ML using Random Forest Classifier ,4,2018-03-06 08:36:31.123000000
+4,novice,Titanic Script,7,2018-03-06 03:39:32.297000000
+6,novice,trouble with Random Forest,0,2018-03-06 02:18:37.203000000
+2,contributor,Fork of Titanic ML for Disaster,5,2018-03-05 14:13:14.827000000
+0,novice,new user,0,2018-03-05 09:41:25.020774900
+4,contributor,score,0,2018-03-05 09:24:50.600510100
+0,contributor,a good starting compatation,0,2018-03-05 08:41:33.692371400
+0,novice,Titanic Data Science Solutions,1,2018-03-05 08:41:30.490000000
+3,novice,predictions using Random Forest,0,2018-03-04 20:13:03.781200800
+2,novice,How to publish Kaggle Kernel,0,2018-03-04 14:39:43.089489900
+1,novice,Can\u0027t locate results .csv file?,0,2018-03-04 13:06:17.607219900
+2,novice,New To ML case studies.....,0,2018-03-04 11:13:01.377180700
+0,novice,Titanic Survival Competition,10,2018-03-04 10:19:19.787000000
+1,novice,Resolved,0,2018-03-04 02:52:52.065918500
+2,expert,Minimalistic XGB,3,2018-03-03 20:17:18.140000000
+4,contributor,ML basics on Titanic Data,5,2018-03-02 21:35:45.223000000
+0,novice,Titanic Survive,0,2018-03-02 18:15:23.900000000
+0,novice,TITANIC,1,2018-03-01 23:07:57.003000000
+55,novice,"New to ML and kaggle, looking for team",4,2018-03-01 13:39:09.298460600
+0,contributor,titanic,0,2018-02-28 14:14:43.797000000
+2,novice,Manually Ignore the Variable Cabin,0,2018-02-27 21:23:53.486970500
+2,contributor,Titanic: Machine Learning from Disaster Solution,0,2018-02-27 15:10:21.203000000
+18,novice,Basic Knowledge ML- Looking for Team,1,2018-02-25 20:49:29.338877400
+2,contributor,K Nearest Neighbour from Scratch,2,2018-02-25 14:32:49.973000000
+3,contributor,Titanic Neural Network for Beginners,6,2018-02-25 13:01:30.810000000
+4,contributor,Titanic Competition Kernel,2,2018-02-24 15:27:10.410000000
+2,contributor,Titanic Random Forrest: use title to impute age,0,2018-02-24 09:25:20.477000000
+2,contributor,Titanic Survival Ensembling Model,7,2018-02-24 06:46:16.727000000
+7,expert,Strategies for estimating a model performance,7,2018-02-23 18:28:40.510000000
+3,novice,"Leaderboard not showing my rank, i scored 0.72248 but why it is not showing my name on the leaderboard",0,2018-02-23 10:01:23.968148400
+0,contributor,New and looking for team to exchange knowledge?,1,2018-02-22 17:54:57.494412000
+5,expert,\u0027Python\u0027 to \u0027R\u0027 tutorial,13,2018-02-22 17:20:58.623000000
+17,expert, \u0027R\u0027 to \u0027Python\u0027 tutorial,31,2018-02-22 17:14:49.167000000
+7,novice,need ateam..,0,2018-02-22 11:03:46.652828600
+0,contributor,TITANIC-RANDOM FOREST OR SVM 0.80 (STEP BY STEP),0,2018-02-21 15:30:28.010000000
+17,novice,I\u0027m new to Kaggle challenges ,0,2018-02-21 09:59:36.225259500
+2,novice,Looking for a team,1,2018-02-21 09:34:45.198267500
+2,novice,Titanic Data Visualization,2,2018-02-21 06:15:09.007000000
+0,novice,AI Group Meeting (hand code),0,2018-02-20 19:04:46.133000000
+2,contributor,Titanic: Mahendra Neeraj,4,2018-02-20 09:57:33.900000000
+2,contributor,Machine Learning com dados da base Titanic,0,2018-02-19 18:43:11.660000000
+2,contributor,Basic Neural Network with Numpy \u0026 Titanic,0,2018-02-19 15:20:37.213000000
+2,contributor,Titanic,0,2018-02-19 15:18:40.260000000
+13,novice,New to Machine Learning,1,2018-02-19 08:15:07.044443000
+2,novice,Titanic - Artificial Neural Network - 80% score,6,2018-02-19 01:48:15.657000000
+5,contributor,XGBClassifier,0,2018-02-18 20:46:48.388073800
+5,contributor,i\u0027m new to kaggle,1,2018-02-18 08:18:24.813095000
+4,expert,Beginner Keras and Visualization Tutorial,6,2018-02-16 21:35:43.063000000
+5,contributor,Trying to use kernels,0,2018-02-16 12:35:54.310000000
+4,contributor,Ticket 7534,3,2018-02-16 11:01:02.126271500
+2,novice,factor Parch has new levels 9,0,2018-02-15 16:14:28.013620300
+2,contributor,CatBoost on a Boat with useful tricks,1,2018-02-15 14:33:53.717000000
+0,novice,Titanic: TensorFlow (only Gender) \u0026 Export to CSV,0,2018-02-14 13:30:07.723000000
+1,novice,Introducing dummy variables?,0,2018-02-13 11:19:29.682800700
+0,novice,Titanic Dataset Analysis With Seaborn,0,2018-02-12 16:56:53.173000000
+43,contributor,Making new team,1,2018-02-12 16:08:35.601558700
+0,contributor,Step-by-step on the Sloping Deck,2,2018-02-12 16:03:12.963000000
+3,novice,Hi can someone help me,0,2018-02-12 04:08:37.878244700
+3,expert,Predicting using the Name feature alone,0,2018-02-11 17:38:19.395964800
+14,expert,Name-only study with interactive 3D plot,8,2018-02-11 07:59:47.643000000
+2,contributor,CV Score consistently higher than LB score,1,2018-02-11 02:15:19.314836500
+12,contributor,A First-timer Tackles the Titanic,13,2018-02-10 22:27:45.593000000
+5,contributor,Deep Sea Dive into Top 10% - Survival Guide,27,2018-02-09 17:40:25.243000000
+10,contributor,Removing not significant variables from the model?,2,2018-02-09 17:25:52.306496000
+15,contributor,Is it a good idea to estimate Age with RandomForest?,1,2018-02-09 08:39:16.528617600
+0,novice,How to improve your score to over 80% (my highest score is 81.339%),0,2018-02-09 04:25:25.556450400
+5,contributor,categorical features? but where?,0,2018-02-08 22:26:09.194413600
+0,novice,Titanic Kernel,0,2018-02-08 18:32:22.470000000
+5,novice,"Confused by test results, need insights ...",0,2018-02-08 00:20:14.451237800
+1,novice,Discrepancy in the attribute \u0022FARE\u0022 or Am I missing something?,0,2018-02-07 11:19:08.130868300
+0,contributor,Best Titanic Survival Prediction  for Beginners.,23,2018-02-07 10:34:57.807000000
+4,novice,Error: could not convert string to float: \u0027Q\u0027,0,2018-02-07 05:40:58.885201800
+12,contributor,Binning of continuous variable,1,2018-02-07 00:56:35.420106300
+0,contributor,titanic sunk,0,2018-02-06 14:51:18.293000000
+2,novice,Correct use of nested cross validation technique?,0,2018-02-06 05:27:24.538590500
+6,contributor,Titanic The Machine Learning Fix Some Mistakes,0,2018-02-05 22:37:37.890000000
+3,novice,Titanic [Survivals Analysis],4,2018-02-05 20:44:15.280000000
+27,contributor,Anyone need a team member?,4,2018-02-05 10:52:44.437984900
+0,contributor,First try with random forest,0,2018-02-05 07:53:27.952343400
+0,contributor,Predictions on titanic,1,2018-02-05 05:47:10.037000000
+0,novice,"Titanic: Error, unexpected symbol",0,2018-02-04 14:43:15.716397600
+0,contributor,EDA To Prediction(DieTanic),0,2018-02-03 15:24:17.003000000
+0,novice,problem solved,0,2018-02-03 14:51:45.640344800
+6,novice,Submission core shows 0.000 even model score is 79%,1,2018-02-03 10:32:40.008071000
+1,novice,Titanic: Random Forest (cforest) 80.861%,2,2018-02-02 14:41:38.305122800
+0,novice,First practice,0,2018-02-01 13:52:54.210000000
+2,novice,Why my submission result is 0.5167?Titanic dataset problem,0,2018-02-01 10:04:45.115475500
+0,contributor,Titanic Data Science Solutions,0,2018-02-01 08:43:32.323000000
+3,contributor,More than 85% in Titanic?,0,2018-01-30 17:26:22.566865500
+4,contributor,Is my model suffering from overfitting ?,1,2018-01-30 14:05:21.941073100
+0,contributor,Titanic with DeepLearning (simple tensorflow),1,2018-01-30 13:46:44.863000000
+2,novice,Leren en Beslissen Group 15 - Competition Entry,6,2018-01-30 10:19:53.360000000
+2,novice,Titanic with keras NN: wrong outputs with test data,0,2018-01-29 17:25:24.580961800
+5,contributor,泰坦尼克幸存者预测TitanicLvPeiyuan,0,2018-01-28 06:50:31.113000000
+2,expert,Kaggle Starter,6,2018-01-27 17:25:00.740000000
+80,contributor,End to End Project with Python,176,2018-01-27 14:37:24.463000000
+3,contributor,The 15 Minute Titanic,0,2018-01-26 20:09:09.607000000
+0,novice,Scoring deviation,0,2018-01-26 19:48:27.869293500
+1,novice,Score calculation,0,2018-01-26 15:27:47.180977900
+19,novice,Looking for Team ,1,2018-01-26 10:57:28.956636600
+2,contributor,Titanic Data Analysis,0,2018-01-26 06:20:21.240000000
+7,contributor,"First end-to-end competition, would like feedback (~78%)",1,2018-01-26 00:05:39.387510100
+37,novice,whoever is looking for a new team!,0,2018-01-25 19:30:14.206098300
+0,novice,whoever is looking for a new team!,0,2018-01-25 19:19:51.320820600
+7,master,My First GP in R,14,2018-01-24 11:46:16.493000000
+0,master,One propose to Titanic Rank,0,2018-01-24 02:29:26.576925300
+1,novice,New team members for Titanic model. ,0,2018-01-23 10:51:49.079361100
+16,novice,Looking for a team member,1,2018-01-22 13:35:25.606942500
+0,novice,titanicSurvivorTraining,0,2018-01-22 07:17:37.503000000
+3,novice,find teammate,0,2018-01-22 07:14:36.505037900
+82,contributor,Titanic [0.82] - [0.83],57,2018-01-22 06:51:39.640000000
+6,master,How can I pass of 0.7990? Whats the best approach?,0,2018-01-22 02:51:33.053264100
+2,novice,Hey guys!I would like too join/make a team to learn and collaborate,0,2018-01-21 11:35:01.865301800
+2,contributor,Titanic Solution: A Beginner\u0027s Guide,0,2018-01-21 01:21:25.153000000
+6,novice,What is a good score?,0,2018-01-20 23:26:09.649251800
+5,novice,Very new..Want to join a team.,0,2018-01-20 11:40:44.856501800
+3,expert,Basic EDA and modeling for Titanic Survival,21,2018-01-20 11:13:06.573000000
+26,novice,TeamMates Needed or Team Needed,0,2018-01-18 22:00:51.551886400
+4,novice,Looking for teammates,0,2018-01-18 20:04:08.540948000
+4,novice,Titanic : Survival Prediction,11,2018-01-18 13:43:40.797000000
+0,novice,Anyone interested in Trying Free AutoML for the titanic dataset?,0,2018-01-17 21:00:04.362869600
+2,contributor,Predicting Titanic Survivors,11,2018-01-17 07:38:31.163000000
+0,contributor,"0.7945 using RF, SVM, GBA and their ensembles ",0,2018-01-16 20:26:07.143000000
+50,contributor,looking for a team ,1,2018-01-15 11:14:35.617280000
+0,novice,"philisters of the world, unite!",0,2018-01-14 23:15:57.828098800
+41,master,Titanic [EDA] + Keras Neural Networks - Guide,90,2018-01-14 19:26:15.153000000
+3,contributor,Top 8%,3,2018-01-14 18:38:22.607000000
+6,novice,Anyone interested in beta testing AutoML on this dataset and others to get into top 1%?,0,2018-01-14 15:50:07.705901800
+0,contributor,any know how to delete this discussion？,0,2018-01-14 14:36:21.980874100
+7,novice,Need members for the Team \u0022DigDeepData\u0022,0,2018-01-14 11:26:46.281345200
+5,contributor,Hunting for the best algorithm!,0,2018-01-13 17:26:18.955322000
+2,novice,Looking to form a TEAM ,0,2018-01-13 04:45:23.611565500
+6,contributor,Titanic: Pattern Analysis and Feature Spaces,19,2018-01-12 22:46:04.107000000
+2,novice,Titanic Machine Learning For Beginners,1,2018-01-12 02:39:49.240000000
+2,novice,Using Decision Tree to Predict Survival,0,2018-01-12 01:55:14.380000000
+0,contributor,Fork of Titanic -NN Model,0,2018-01-10 23:00:56.717000000
+2,contributor,Titanic dataset EDA and found error in the data,5,2018-01-10 21:08:36.770000000
+14,novice,looking for team which is hungry  to learn!,4,2018-01-10 20:44:45.429848700
+0,novice,Intro to ML through Titanic Survival Prediction,3,2018-01-10 04:35:06.170000000
+64,novice,Need a team for discussion and learning,5,2018-01-09 15:47:40.066977500
+7,novice,Prerequisites,0,2018-01-09 12:36:06.884061800
+13,contributor,Looking for nice and enthusiastic team members,0,2018-01-09 11:16:19.128994700
+4,contributor,Help with feature selection (I am using Logistic Regression),0,2018-01-08 22:17:43.715553000
+0,novice,Titanic Data Exploration in Python,0,2018-01-08 18:40:05.363000000
+10,novice,Titanic Analysis_Learning to Swim with Python,65,2018-01-08 18:16:46.100000000
+4,novice,How to improve accuracy in Titanic competition-Please Help!,0,2018-01-07 06:45:47.664834800
+7,novice,Hey guys!  I want to form a team so that we could learn and collaborate together and also compete together.  Let\u0027s chat and form a team.  Please drop comment and your background.,1,2018-01-07 06:01:18.682977300
+2,contributor,"Titanic - Logistic Reg., feature mapping \u0026 kernel",1,2018-01-06 20:43:21.503000000
+0,novice,Titanic Decision Tree implemented as Lean Startup ,5,2018-01-05 15:22:34.053000000
+1,contributor,Titanic: Machine Learning from Disaster- To improve Accuracy?,1,2018-01-04 23:04:00.347134000
+3,contributor,Imputation and Feature Engineering,3,2018-01-04 18:33:33.313000000
+9,expert,Are Python 0.88995 and R 0.82296 the max realistic scores?,1,2018-01-04 13:13:36.000308500
+14,contributor,Looking for learners to team up with ,1,2018-01-04 07:08:58.205060300
+9,contributor,Forming a serious team - Looking for more. ,0,2018-01-04 01:18:55.364293500
+4,contributor,"Analysis, Visualization and Learning (Log. Reg.)",17,2018-01-03 23:43:11.920000000
+19,novice,Team up with me!,1,2018-01-03 20:38:54.991795300
+3,contributor,My Titanic Analysis,8,2018-01-03 13:57:35.803000000
+0,novice,九章机器学习从1到10项目班Logistic Regression预测Titanic乘客逃生,4,2018-01-03 05:22:41.747000000
+3,novice,Unseen class feature,1,2018-01-02 19:42:56.182105300
+0,contributor,Titanic - Machine Learning from Disaster,2,2018-01-02 04:37:33.050000000
+0,contributor,Notebook120b4677f9,2,2018-01-01 18:11:00.240000000
+7,novice,What to study?,0,2017-12-31 20:11:16.943159700
+0,contributor,Titanic | Solution | Logistic Regression ,0,2017-12-31 08:08:11.517000000
+3,novice,Looking for a team in bangalore. ,0,2017-12-31 06:38:29.044647600
+0,novice,Titanic Python Decision Trees,0,2017-12-29 18:15:52.963000000
+20,contributor,"Comparing ML algorithms, train ACCURACY \u003e 90%",32,2017-12-29 12:35:33.567000000
+35,novice,Looking for a couple teammates,4,2017-12-28 22:56:57.774857000
+2,novice,Looking for a team,2,2017-12-28 16:25:38.409395500
+9,expert,Titanic Survival Class. 79.90% Test Acc.,15,2017-12-28 15:01:54.160000000
+0,contributor,Titanic: putting learning into practice,0,2017-12-28 12:22:37.255120600
+2,contributor,Looking for a team to start with!,2,2017-12-28 07:11:50.157340900
+0,novice,"Looking for team in Moscow, Russia",0,2017-12-27 08:28:48.150601200
+0,contributor,Ml Basics,9,2017-12-27 07:28:48.827000000
+21,contributor,Titanic : EDA to ML (Beginner),34,2017-12-27 06:43:52.140000000
+188,expert,Head Start for Data Scientist,575,2017-12-25 15:49:58.393000000
+2,novice,Looking for team mate!!,0,2017-12-25 07:24:05.589694200
+4,contributor,Titanic problem : A simple approach,8,2017-12-25 06:35:26.063000000
+5,contributor,Looking for Team for Competition participation #abc[iitr] ,1,2017-12-25 05:36:53.464232600
+8,novice,Random Forest feature engineering.... your experience?,4,2017-12-24 19:46:36.662197600
+0,expert,Understanding dplyr Verbs with Titanic Dataset,0,2017-12-24 17:52:52.967000000
+2,novice,Basic Classification methods for Titanic,23,2017-12-24 07:00:37.637000000
+5,novice,Looking for team ,0,2017-12-23 16:32:45.756269200
+3,novice,Looking for team members,1,2017-12-23 09:00:07.175625800
+0,contributor,Showdown of algorithms for Titanic Dataset,0,2017-12-23 08:24:59.660000000
+17,novice,Looking for Team members,1,2017-12-22 10:43:03.801572500
+10,contributor,Looking for teammate,1,2017-12-21 10:59:38.133782400
+9,novice,Anyone interested in teaming up?,0,2017-12-21 03:25:19.092676900
+4,novice,Can someone count me in for Team up ?,0,2017-12-20 17:52:38.924919100
+9,novice,Want to form a team,0,2017-12-20 17:34:20.357959700
+2,contributor,Titanic\u0027s Data Visualization,0,2017-12-19 22:17:24.350000000
+2,contributor,Testing XGB on Titanic,1,2017-12-19 11:44:32.650000000
+9,novice,Looking for a team,0,2017-12-19 06:10:40.466685100
+1,novice,Gradient Boosting ,1,2017-12-18 18:37:52.735683000
+3,contributor,Keras Deep Learning on Titanic data,5,2017-12-18 12:18:47.193000000
+14,contributor,"Journey from Statistics, EDA, to Prediction",47,2017-12-17 00:01:03.410000000
+3,contributor,Titanic: 80% accuracy(top 14%) Random Forest,2,2017-12-16 18:45:46.860000000
+3,contributor,Titanic survivor predictions and analysis,3,2017-12-16 17:11:54.077000000
+24,expert,A tutorial for COMPLETE BEGINNERS ,63,2017-12-16 16:19:07.560000000
+4,contributor,Titanic Top 14% with Random Forest,2,2017-12-16 14:05:13.037000000
+6,expert,What needs to be done to ensure model works on test set private leaderboard?,0,2017-12-16 11:15:45.161462800
+1,novice,Decision Trees predictors as factors?,0,2017-12-16 08:21:06.860535100
+2,contributor,Titanic : RandomForest Starter with EDA,0,2017-12-16 07:15:57.330000000
+14,novice,Looking for Team,0,2017-12-15 11:45:13.469119800
+0,novice,Proper CV techniques,2,2017-12-15 02:25:54.433000000
+0,novice,Odd results with sklearn SVM ,0,2017-12-14 23:07:16.390862100
+11,novice,Need a Team.,0,2017-12-14 13:44:31.460783100
+22,novice,Looking for team,3,2017-12-13 14:18:30.266118500
+4,contributor,Titanic Visualization with ggplot2 ,5,2017-12-13 09:17:58.770000000
+4,novice,Kaggle Titanic Tutorial,6,2017-12-13 07:40:11.340000000
+0,novice,Titanic Data Science Solutions 83f146,2,2017-12-13 03:49:29.940000000
+2,novice,Productionalizing the use of One Hot Encoding to resolve categorical data.,0,2017-12-12 21:09:42.634773200
+197,expert,Titanic: 2nd degree families and majority voting,383,2017-12-12 12:46:59.387000000
+0,novice,Kaggle Titanic Tutorial,0,2017-12-12 07:17:11.917000000
+6,novice,Looking for a team,0,2017-12-11 04:49:41.903960300
+0,contributor,Titanic challenge,0,2017-12-10 23:08:23.720000000
+7,contributor,"With only preprocessing data, what is the best performance achievable with SVM? ",0,2017-12-09 12:33:18.854495500
+1,novice,Lessons Learned,0,2017-12-09 00:59:47.727851500
+7,novice,Want to form a Team to learn and perform,1,2017-12-08 10:26:26.098967600
+1,novice,Score not improved though accuracy did,0,2017-12-07 19:14:10.839006500
+0,novice,The problem I encountered while referring to Megan\u0027s code,0,2017-12-07 10:40:30.530290500
+1,novice,How to updload the final file,0,2017-12-07 06:30:48.023538800
+6,novice,Want to form a team solve the Titanic,0,2017-12-07 02:47:12.075752100
+5,contributor,Titanic competition: dataset analysis,1,2017-12-07 00:51:37.080000000
+2,contributor,Predicting Surviving in Titanic,0,2017-12-06 18:26:39.100000000
+5,novice,Python script or notebook?,1,2017-12-06 16:14:15.143353700
+8,contributor,Titanic Cabin Features,13,2017-12-06 13:31:00.480000000
+3,contributor,DNN with TensorFlow\u0027s Dataset API and Estimator,0,2017-12-06 12:03:21.707000000
+0,novice,AI fish detection and classification algorithm competition,0,2017-12-05 19:26:10.500198100
+4,novice,Errors in Age data?,0,2017-12-05 16:04:36.703086800
+3,contributor,Feature Engineering for Titanic Dataset,5,2017-12-04 22:04:50.850000000
+10,novice,Looking for Team Members to learn with,0,2017-12-04 15:34:25.369130300
+6,novice,Looking for a Team,0,2017-12-04 12:31:54.419990000
+2,novice,Duplicate Ticket numbers,0,2017-12-03 11:30:24.817773300
+3,novice,looking for a team!,0,2017-12-03 04:56:46.823197400
+0,expert,Applying LightGBM to Titanic dataset,6,2017-12-02 19:28:28.597000000
+45,contributor,A Statistical Analysis of Titanic with ML Models,90,2017-12-02 15:48:17.360000000
+2,contributor,Uso de Random Forest,1,2017-12-01 23:49:16.603000000
+0,novice,BrandonSRonCBrianG_A2_Script,0,2017-11-30 23:51:36.657000000
+7,contributor,Chronicle of a tragedy,11,2017-11-30 20:00:53.557000000
+0,novice,EDA To Prediction(DieTanic),0,2017-11-30 11:04:46.287000000
+0,contributor,Titanic exploration and Prediction,3,2017-11-30 05:32:33.493000000
+1,novice,qcut Struggle With Fare,0,2017-11-30 02:44:31.875975200
+0,contributor,"Using matplotlib, numpy and pandas in Titanic ",0,2017-11-29 13:02:35.787000000
+2,novice,Just Another Titanic Kernel...,0,2017-11-29 10:30:57.130000000
+6,novice,Looking for team members,0,2017-11-28 14:08:27.777360400
+11,novice,Looking for teammate,1,2017-11-26 13:45:23.639113800
+9,contributor,Predicting Titanic Survival using Five Algorithms,24,2017-11-26 11:38:44.173000000
+2,contributor,Titanic survival (my 2nd Titanic kernel),0,2017-11-26 03:11:03.120000000
+0,contributor,xLearn - High-Performance and Scalable Machine Learning Package,1,2017-11-24 15:48:45.350080700
+17,contributor,Looking for people to learn with,0,2017-11-24 15:35:19.707772000
+4,contributor,Titanic Data Analysis and ML,5,2017-11-23 17:06:58.853000000
+2,expert,Learning ML with Titanic Survival,23,2017-11-23 09:28:27.340000000
+194,contributor,A Data Science Framework: To Achieve 99% Accuracy,801,2017-11-23 00:45:33.907000000
+3,expert,Exploring Passenger Nationality,4,2017-11-23 00:37:59.457000000
+3,contributor,TITANIC: Beginner,4,2017-11-22 17:18:09.710000000
+0,novice,New To Machine Learning,0,2017-11-22 17:17:56.499020700
+0,contributor,"Titanic: EDA, Regression, KNN, RFC and Grad Boost",0,2017-11-22 02:21:23.870000000
+16,novice,looking for a team,0,2017-11-21 11:57:35.909031500
+0,contributor,Titanic - my first kernel,2,2017-11-20 20:54:23.580000000
+0,novice,"Titanic: Beyond the movie, closer to disaster",0,2017-11-20 18:21:48.583000000
+2,expert,How to upload a kernal using Spark in R,0,2017-11-20 15:17:58.080218000
+2,contributor, Titanic: Logistic Biner Regression,3,2017-11-20 12:54:06.307000000
+2,novice,My first submission of Titanic Survival problem,6,2017-11-20 07:47:13.530000000
+2,novice,NN does not train / learn anything,1,2017-11-18 15:27:33.758379700
+9,novice,Test set evaluation very different from hold-out set - any ideas?,1,2017-11-17 14:34:04.948703800
+4,contributor,Titanic Analysis with R,3,2017-11-17 03:25:39.797000000
+21,novice,Looking for Team,0,2017-11-16 19:22:28.264465800
+0,contributor,Titanic - logistic regression,0,2017-11-16 08:29:02.913000000
+27,expert,"Titanic: Voting, Pipeline, Stack, and Guide",122,2017-11-16 06:12:56.350000000
+4,novice,Data novice/n00b looking for direction,0,2017-11-16 04:14:39.349299500
+4,novice,looking for nice teamate :),0,2017-11-14 18:36:56.597370400
+1,contributor,Benefits of using multiple models?,0,2017-11-14 14:19:03.467927400
+0,contributor,Private Leaderboard,0,2017-11-14 00:21:02.835733400
+4,contributor,[Top 5%] XGBoost tunning - first competition,15,2017-11-13 21:29:13.150000000
+3,novice,Technics to predict the age,1,2017-11-13 17:38:51.292706600
+0,novice,MM - first attempt at Kaggle ,3,2017-11-13 14:11:01.397000000
+0,contributor,Who Dies? Who Lives? You Decide!,0,2017-11-13 12:13:38.600000000
+10,contributor,Looking for a team member,0,2017-11-13 06:27:31.611083000
+13,expert,3 Seconds and 3 Features - top 10%,16,2017-11-11 13:40:49.077000000
+46,novice,Looking for a team,5,2017-11-11 13:18:26.711820100
+3,novice,GridSearchCV accuracy vs Kaggle Score.,2,2017-11-11 12:39:34.994751900
+4,novice,Looking for a teammate!,0,2017-11-11 12:00:13.562384200
+3,novice,R Normalizing Data Problems,0,2017-11-10 18:15:24.865481400
+2,novice,problem about constructing the notebook,0,2017-11-10 09:48:11.803999300
+3,novice,My Competition Score and Ranking in not coming up in public Leader Board,0,2017-11-10 05:21:48.243218900
+2,contributor,Evaluation Exception: Submission must have 418 rows,0,2017-11-10 03:48:50.532109400
+4,novice,Teammates w/ Data Science fascination,0,2017-11-10 00:48:46.245277600
+5,novice,Issue with kaggle score,0,2017-11-09 21:18:45.441997900
+1,novice,Looking for Experienced Person to Team up with,0,2017-11-09 16:43:18.024216700
+7,contributor,Forming a Team With Google Plus,2,2017-11-08 19:16:35.524255400
+1,novice,Difference between cross validation and using a validation set?,0,2017-11-08 04:57:48.478147900
+27,novice,Looking for a team,0,2017-11-07 23:18:38.445641600
+0,contributor,Exploring Survival on the Titanic 0.81818,5,2017-11-07 20:00:30.413000000
+10,contributor,Using neural network for prediction,4,2017-11-07 14:17:58.345209200
+8,contributor,Titanic: Neural Network using Keras,5,2017-11-07 11:25:00.127000000
+3,contributor,titanic-for-beginners,8,2017-11-06 13:08:22.267000000
+5,novice,New to Kaggle and R ,0,2017-11-06 10:02:46.404104500
+18,expert,Titanic Data Exploration Starter,151,2017-11-06 02:51:21.690000000
+6,contributor,Titanic  - ML basics,16,2017-11-05 15:08:29.530000000
+2,novice,Titanic Solution,0,2017-11-05 09:37:28.147000000
+5,novice,Method to compare different Models?,1,2017-11-04 15:54:57.934906100
+0,contributor,Titanic - TensorFlow Canned Estimators (Beginners),4,2017-11-03 15:14:02.643000000
+3,novice,Got about 99.5% score with decision tree - stupid mistake? ,0,2017-11-02 21:48:17.183160400
+0,novice,Titanic data: Maching learning,4,2017-11-02 05:31:10.687000000
+3,novice,Python issue splitting Ticket in to two parts,0,2017-11-01 18:27:08.357462300
+2,contributor,(Accuracy %77.99) no Feature Engineering,3,2017-11-01 11:16:36.520000000
+0,contributor,Titanic: Machine Learning from Disaster,0,2017-11-01 06:02:13.100000000
+0,staff,Predicting Survival on Titanic: Method Comparison,6,2017-10-31 16:46:46.773000000
+0,staff,Poetry Generator (RNN Markov),26,2017-10-31 16:31:34.283000000
+1,novice,New member - confused with Kaggle,0,2017-10-31 13:54:55.994678500
+0,contributor,Titanic Competition Random Forest Grid Search,2,2017-10-31 00:01:57.167000000
+7,novice,Looking for a team,0,2017-10-30 22:04:36.292415900
+0,novice,A Beginner\u0027s Experience with Titanic,0,2017-10-30 18:55:13.037000000
+3,contributor,Titanic Problem,3,2017-10-30 12:07:18.600000000
+2,contributor,ground truth column in training data,1,2017-10-30 07:55:50.316251800
+2,novice,Scikit-Learn ML from Start to Finish 1,0,2017-10-30 07:35:45.980000000
+0,novice,Survival prediction on Titanic,1,2017-10-29 16:49:20.243000000
+1,novice,update,0,2017-10-29 16:42:21.114504300
+3,contributor,Titanic Solution with sklearn classifiers,11,2017-10-29 03:53:50.480000000
+2,contributor,Titanic Kernel 79.4% Accuracy,0,2017-10-28 19:13:00.743000000
+107,contributor,Titanic Survival Predictions (Beginner),254,2017-10-28 18:11:31.760000000
+0,contributor,"Kaggle Titanic tutorial, passing 82%, Part 1",9,2017-10-27 14:08:33.427000000
+3,contributor,The meaning of SibSp \u0026 ParCh,0,2017-10-27 12:14:57.501457300
+0,novice,titanic process test (copy and run in python 3.5),0,2017-10-26 23:40:58.627000000
+4,novice,Titanic - Logistic regression from scratch (0.779),1,2017-10-26 19:27:09.897000000
+3,novice,New here and looking for help,0,2017-10-26 09:48:26.432231300
+4,novice,Solution of the challenge ? Novice in machine learning,1,2017-10-26 03:21:00.464482300
+0,contributor,"Join a new community on Discord (learn, talk and share around ML)",0,2017-10-25 16:56:14.439230500
+3,contributor,Titanic Data Science Solutions,0,2017-10-25 14:47:29.573000000
+0,novice,Ginjo\u0027s prediction (Thai),0,2017-10-25 14:08:13.907000000
+5,contributor,"Understanding Data Leakage, building Pipelines and the question of \u0022Should I use the whole dataset when preprocessing?\u0022",1,2017-10-25 09:59:48.140596400
+5,contributor,How my approach on Titanic Competition changed over time,9,2017-10-24 20:11:55.802360700
+3,contributor,My Data Analysis using Plot.ly,2,2017-10-24 06:59:31.190000000
+2,contributor,Need help to understand model score (NN model),0,2017-10-24 04:00:04.732902600
+11,novice, Submission Score is showing 0.00,1,2017-10-23 15:08:30.587527100
+1,novice,where is error????,0,2017-10-23 15:01:31.417315900
+14,novice,Looking for joining a team,0,2017-10-23 13:50:20.894872800
+5,contributor,How much correlation is allowed between the classifiers when building and ensemble classifier,0,2017-10-23 08:58:05.705188300
+4,novice,looking for team mates ,0,2017-10-21 08:25:53.319690500
+5,contributor,Feature Engineering on the Titanic for 0.81339,14,2017-10-20 03:09:07.783000000
+0,contributor,Kernel doesn\u0027t load,0,2017-10-18 14:16:35.048284200
+8,contributor,Leaderboard scores are confusing ... what score should I aim for?,2,2017-10-18 10:02:26.041649800
+0,contributor,Titanic Survivor Prediction,0,2017-10-17 01:18:55.307000000
+2,contributor,1st_TitanicSurvivalPrediction,6,2017-10-16 19:40:49.900000000
+8,contributor,SVC and KNN doesn\u0027t perform well,0,2017-10-16 17:08:56.788283700
+6,novice,New to ML. Looking for a team.,0,2017-10-16 15:14:29.051770400
+0,novice,Titanic Survival: First Try without Tutorial,0,2017-10-16 05:44:30.900000000
+2,contributor,titanic_try_20171016,0,2017-10-15 21:08:40.980000000
+6,novice,Looking for team members,0,2017-10-15 12:00:48.375767500
+1,contributor,Any Kernels focussing on Model Selection?,1,2017-10-13 08:15:59.896923300
+1,novice,\u0022False\u0022 survivors affecting score,0,2017-10-12 18:14:31.222036400
+3,contributor,imputing the age (or any missing value generally in an ML problem),1,2017-10-12 11:47:35.762671800
+1,novice,Questions about the validity of feature engineering,0,2017-10-12 08:23:47.811669800
+4,novice,Are using the Titanic tutorials \u0022cheating\u0022?,0,2017-10-12 02:09:07.878033600
+3,novice,Looking for a team,0,2017-10-11 23:16:46.765626300
+32,novice,Looking for team members...,0,2017-10-11 12:04:18.904056600
+0,novice,Titanic prediction 1st Submission,0,2017-10-11 04:47:14.063000000
+6,novice,My submission is scored zero???,1,2017-10-10 17:40:33.830009200
+26,novice,Looking 4 a team 2 join...,0,2017-10-10 13:45:58.068101200
+2,novice,Help: Anyone else unable to install rattle/RGtk2 in R?,0,2017-10-09 19:07:40.069844100
+2,novice,Fill missing values based on groupby ,0,2017-10-09 09:25:06.535014300
+10,novice,New to Kaggle and ML and looking for a team,0,2017-10-09 02:02:49.161895800
+0,novice,Need some help running multinomial regression for logistic regression,0,2017-10-08 22:16:35.942720300
+8,staff,Predicting Pathologies In X-Ray Images,29,2017-10-08 21:59:10.443000000
+15,novice,Looking for a team,3,2017-10-08 10:24:40.980178100
+3,novice,Train the classifier with all data?,1,2017-10-06 08:46:06.402737700
+1,novice,GridSearchCV and cross_val_score,1,2017-10-06 08:39:44.649948400
+3,contributor," 12,500 Feet Under the Sea",10,2017-10-04 12:38:34.137000000
+8,contributor,Problem with replace command.,0,2017-10-04 09:44:01.417006400
+1,contributor,Dropping NA rows and still output 418 rows for submission,0,2017-10-04 03:01:46.208470200
+2,novice,Titanic: a Demo of Pandas and Scikit-learn,6,2017-10-03 22:15:13.707000000
+0,contributor,Looking for a team,0,2017-10-03 12:44:18.788695300
+0,contributor,How to improve feature importances,0,2017-10-03 11:05:37.416409200
+5,novice,Looking to join a team,0,2017-10-03 09:01:18.578274500
+20,novice,Looking to join a team,0,2017-10-03 04:45:33.164371300
+0,novice,Looking to join a team,0,2017-10-03 04:25:31.920984800
+2,contributor,4 classifiers for Titanic Dataset,7,2017-10-02 20:13:08.723000000
+1,novice,New to R... Need help,0,2017-10-02 19:13:14.873869900
+8,novice,Test score much better than Kaggle\u0027s score ,3,2017-10-02 10:18:52.187052100
+1,novice,Submissions do we need to submit the R file as well,0,2017-10-02 05:25:59.126650100
+0,contributor,Titanic on the ROCks with a LIME,0,2017-10-01 23:00:49.880000000
+18,master,Logistic Regression and ROC Curve Primer,79,2017-10-01 17:57:28.993000000
+3,novice,"so,what is the use of gender_submission.csv?",1,2017-09-30 12:46:08.701633500
+57,staff,Partial Dependence Plots,125,2017-09-30 12:31:33.573000000
+1,contributor,Sibsip and Title Extraction is not enough to get in top 5% on the Leader. What should i do,1,2017-09-30 09:54:21.638850300
+3,novice,Bias and variance of random forests,1,2017-09-30 09:36:42.303069400
+3,novice,I notice 2 items with the same ticket number,0,2017-09-30 04:17:44.178631900
+2,novice,Question about HasFamily(combined feature) and Visualization,0,2017-09-30 03:00:53.882394200
+9,novice,Looking for a team,0,2017-09-29 12:07:34.413604900
+0,contributor,Test Accuarcy is low and Training and Validation Accuracy is high??,0,2017-09-29 11:53:51.140142900
+1,novice,New to Kaggle in search of team.,0,2017-09-29 11:42:42.278717000
+4,novice,is knn not right?,0,2017-09-28 14:37:27.241893300
+4,novice,Looking for a team.,0,2017-09-28 04:13:33.161562200
+108,master,EDA To Prediction(DieTanic),655,2017-09-28 02:21:55.363000000
+0,novice,looking for a team,0,2017-09-27 14:45:25.301939900
+0,novice,Looking to join a team(skillset: python hands on),0,2017-09-26 12:10:54.468793200
+9,contributor,Finding Important Factors To Survive Titanic,21,2017-09-26 10:23:31.193000000
+0,novice,Impact of Features on simple Neural Networks,3,2017-09-25 22:44:41.053000000
+2,contributor,Hypothesis-based approach to surviving Icebergs,0,2017-09-25 21:42:53.193000000
+0,novice,First competition,0,2017-09-25 07:13:15.277000000
+49,novice,Looking for a team. I am a beginner.  ,0,2017-09-25 01:03:22.625326500
+0,novice,Tensorflow Model (andrew-ng class) (Beginner) ,1,2017-09-24 17:57:44.040000000
+39,novice,"Newbie to Kaggle , looking for team.",5,2017-09-24 09:38:25.465002200
+10,novice,Looking for a team,2,2017-09-24 08:43:12.492234100
+2,novice,Looking for a team to improve my skills,1,2017-09-23 19:47:18.106553300
+0,novice,Titanic - First ML Project,2,2017-09-23 18:44:53.203000000
+0,novice,want to join a team,0,2017-09-23 18:01:36.169883900
+3,novice,Pre-requisities for starting titanic problem ?,1,2017-09-23 16:45:20.399509100
+2,novice,Get more experience with teammate,0,2017-09-23 12:30:26.731200900
+17,contributor,Where is my output file?,66,2017-09-23 11:32:57.970000000
+4,novice,New to Kaggle need to join team,0,2017-09-23 06:30:53.054897100
+4,novice,How to use Surnames,0,2017-09-21 19:49:22.960574200
+3,contributor,Some SibSp/Parch values are wrong,11,2017-09-21 01:18:46.498995700
+5,novice,Blood is thicker than water \u0026 friendship forever,9,2017-09-20 23:19:26.003000000
+3,novice,Titanic: ANOVA in Python with no assumption of equal variances,1,2017-09-20 22:20:46.263914300
+0,novice,Titanic,0,2017-09-20 15:25:22.150000000
+0,novice,Titanic Willem Wijgergangs,0,2017-09-20 11:04:42.707000000
+2,novice,Notebook74e97994a3,0,2017-09-20 07:50:31.560000000
+0,novice,Next mission,0,2017-09-19 20:46:23.883337700
+8,novice,Any openings in your team / form a team ?,1,2017-09-19 20:34:31.449805700
+2,novice,Bagging and boosting Titanic passengers,5,2017-09-19 14:26:45.680000000
+3,novice,Titanic Problem Solving,2,2017-09-19 12:21:45.610000000
+5,novice,Support Vector Machines Approach Question,1,2017-09-18 21:08:22.627513600
+1,novice,files have magic number \u0027Passe\u0027 - what does it mean?,0,2017-09-18 20:40:51.376556000
+1,novice,Looking for people to learn together!!!,0,2017-09-18 16:46:30.913564700
+5,novice,"Help!!! Why my training score is 84%, but submission score only 79.9%?",2,2017-09-18 09:10:49.427255300
+0,contributor,Titanic: enhancing the training data and KIS,1,2017-09-18 06:34:05.877000000
+2,expert,Titanic Survival Predictions with RandomForest,4,2017-09-17 07:56:25.490000000
+0,contributor,Titanic passenger survival forecast——R,0,2017-09-17 06:33:13.953000000
+8,contributor,Using .loc in a for to change values is not working,1,2017-09-17 01:15:29.344117100
+0,novice,Titanic Kernel,1,2017-09-16 10:24:07.470000000
+2,novice,Titanic survivorship Neural Network model,2,2017-09-16 00:37:32.163000000
+12,novice,Looking for teammates to learn and work together,0,2017-09-15 19:37:04.723824500
+11,novice,Forming a team,2,2017-09-15 13:16:54.127444700
+3,novice,"Titanic: Predict Survival, First Kernel ",4,2017-09-15 07:50:31.353000000
+7,contributor,Titanic Survivors; History Lesson!,10,2017-09-14 22:56:38.830000000
+6,novice,Sinking of the Titanic - From Data to Insights,6,2017-09-14 22:07:46.717000000
+8,novice,Looking for teammate,1,2017-09-14 07:05:16.876713500
+2,contributor,Who survives the Titanic?,0,2017-09-11 16:17:11.320000000
+2,contributor,True survived csv file,0,2017-09-11 16:06:44.813898200
+0,contributor,Prediction:  Simple Logistic Regression Classifier,3,2017-09-11 02:33:39.213000000
+2,novice,A Journey through Titanic,3,2017-09-09 18:40:26.690000000
+0,contributor,Machine learning with Caret (R package),2,2017-09-08 22:48:41.543000000
+0,contributor,Score changes using the same model,1,2017-09-08 18:51:44.582090300
+0,novice,Logistic Regression with Titanic Data,4,2017-09-08 06:54:05.830000000
+2,contributor,Decision Tree e Features Numéricas [pt-BR],4,2017-09-07 16:29:09.007000000
+39,novice,Beginners Titanic,78,2017-09-07 16:26:24.967000000
+9,contributor,Does a Public Leaderboard score of 1 mean overfitting to public dataset ?,5,2017-09-07 15:23:55.930682100
+0,novice,Looking to team up in US,0,2017-09-07 13:54:54.268798300
+4,contributor,How to deal with cross-validation?,2,2017-09-07 04:33:58.808856100
+11,master,Super Guide EDA of Titanic (Updated: Tree digraph),10,2017-09-07 04:32:42.397000000
+0,novice,Cabin Fill,0,2017-09-06 17:02:01.160187500
+0,contributor,Titanic: Machine learning,2,2017-09-06 11:00:37.320000000
+18,contributor,looking for teammates,2,2017-09-05 17:30:45.369676500
+2,novice,Titanic is back in R!,7,2017-09-05 16:27:42.667000000
+1,contributor,Python Function for Simple and Brief Exploratary Analysis of a Dataframe,0,2017-09-04 16:10:20.765187600
+10,contributor,What is an \u0022acceptable\u0022 score ?,5,2017-09-02 19:40:07.463779600
+5,novice,Team-up. Shall we?,0,2017-09-02 14:54:00.627508500
+2,novice,Titanic // In-depth Analysis [Beginner Friendly],15,2017-09-02 12:58:45.810000000
+3,contributor,Titanic Survivors,2,2017-09-01 15:14:53.273000000
+2,novice,My first work on kaggle :Titanic problem,0,2017-09-01 06:56:30.660000000
+3,contributor,Testing multiple models with scikit-learn(0.79425),6,2017-08-31 12:49:13.077000000
+0,contributor,Titanic Solution: A Beginner\u0027s Guide,17,2017-08-31 10:35:22.560000000
+0,novice,TensorFlow Walkthrough of Titanic Dataset ,0,2017-08-30 16:20:32.027760800
+11,novice,Looking for teammates,0,2017-08-30 03:20:31.688875300
+7,novice,A Few Different Methods of Solving,4,2017-08-29 18:55:31.210551900
+1,novice,A primitive baseline model,1,2017-08-29 17:39:39.449040800
+4,novice,can\u0027t get better than 0.48,0,2017-08-29 10:30:42.608325300
+2,contributor,Basic Analysis \u0026 Prediction of survival in python,2,2017-08-28 23:31:42.110000000
+5,contributor,Used Binary Logistic Regression,2,2017-08-28 13:22:41.369824600
+5,contributor,Titanic Competition,1,2017-08-26 13:43:31.933000000
+0,contributor,Titanic Survival - 2,0,2017-08-26 06:45:00.610000000
+2,novice,Simple notebook - Titanic,0,2017-08-25 22:53:20.747000000
+2,contributor,Titanic DataSet - Solution,2,2017-08-25 07:04:17.990000000
+3,contributor,Titanic with XGBoost - with comments in Spanish,1,2017-08-24 19:57:23.327000000
+2,novice,Tips for Installing XGBoost on Mac OSX,2,2017-08-23 11:51:28.764271400
+12,novice,Experienced student looking for a team,1,2017-08-23 09:56:01.440820900
+3,novice,The Titanic problem from a noob perspective,2,2017-08-22 23:26:48.930000000
+95,expert,How am I doing with my score?,133,2017-08-22 17:17:37.713000000
+2,contributor,Training-set vs. Test-set,2,2017-08-22 09:14:08.243422200
+0,novice,Titanic Survival Estimator - Heat Mapped ,0,2017-08-22 06:12:59.800000000
+2,novice,Xgboost using MLR package (R),4,2017-08-21 15:52:59.773000000
+2,novice,Titanic_Leo,4,2017-08-21 13:01:03.990000000
+4,novice,Titanic Survival Estimator,0,2017-08-21 05:11:27.743000000
+0,contributor,Predicting survival in the Titanic,2,2017-08-20 16:10:50.543000000
+4,novice,Passenger Names,0,2017-08-19 12:39:34.917212300
+4,contributor,Looking for teammates to get a higher score ( \u003e 0.8),1,2017-08-18 19:48:06.905142100
+5,novice,what  is \u0027gender_submission.csv\u0027  used for?,2,2017-08-18 12:18:09.908651200
+0,novice,I am looking for team mates too!,0,2017-08-18 07:59:52.396857100
+4,novice,Predict Survived from Titanic Disaster,2,2017-08-18 01:51:32.750000000
+0,contributor,"Titanic. Part 1: Look, count, classify",6,2017-08-17 18:49:56.300000000
+0,novice,All of the Titanic passengers were Unlucky :(,1,2017-08-16 09:31:46.337359100
+0,novice,Pytanic,0,2017-08-16 01:27:38.873000000
+1,novice,Help improving vectorized logistic regression,1,2017-08-15 14:38:47.895870700
+2,novice,Logistic regression from scratch,4,2017-08-15 13:49:12.650000000
+3,contributor,Creating new features,1,2017-08-14 21:14:54.962636500
+2,novice,Titanic - Adaboost ! ,0,2017-08-14 15:10:29.340000000
+13,contributor,Titanic EDA \u0026 Classification End to End ,7,2017-08-13 14:21:08.747000000
+14,contributor,Titanic Competition Notebook (0.80+) - Top 10%,11,2017-08-12 18:52:18.067000000
+8,contributor,Titanic: Machine Learning from Disaster ~ 0.842,28,2017-08-12 07:23:36.553000000
+3,novice,Help with feature selection,0,2017-08-11 23:10:37.879260600
+0,novice,Error Feature Selection with ANN,0,2017-08-11 15:53:41.866038500
+5,contributor,Titanic solution using Random Forest Classifier,18,2017-08-11 09:38:54.663000000
+2,novice,Predicting survivors,2,2017-08-11 06:27:16.493000000
+10,novice,I  am looking for team mates !,1,2017-08-10 12:59:20.632469000
+14,novice,Looking for teammates! ,2,2017-08-10 02:09:39.787928100
+0,novice,Titanic: Getting Started With R - Part 5: Random Forests,0,2017-08-09 10:17:35.786486500
+2,novice,Titanic MC learning challenge,0,2017-08-09 08:15:38.149603500
+2,contributor,Titanic Survival Using Decision Trees,0,2017-08-09 07:36:36.767000000
+0,expert, LB 0.813~  TOP 3% 2 level model,0,2017-08-09 07:19:05.173000000
+4,novice,Submission format for titanic problem.,0,2017-08-09 06:36:31.587126200
+1,novice,One NA value in Survived Test Data,0,2017-08-09 04:42:15.883333900
+3,novice,Score ,0,2017-08-08 07:35:46.586367000
+0,contributor,Investigating Imputation Methods,6,2017-08-08 07:34:20.170000000
+2,novice,2 lines of code to 4%,0,2017-08-08 07:28:16.793000000
+6,expert,What is considered to be leakage in imputation?,3,2017-08-08 07:20:58.818706100
+0,contributor,Selection Features in Titanic. Score 0.818 - 0.804,0,2017-08-07 16:42:13.117000000
+3,contributor,A notebook for very beginners ,0,2017-08-07 07:21:03.960000000
+2,contributor,Fare format,0,2017-08-06 10:35:02.566200100
+2,novice, Data Analysis of Titanic Data Set,5,2017-08-06 03:52:53.107000000
+4,novice,Should i impute train amd test set individually or combine them and then impute?,1,2017-08-05 18:18:09.098843400
+4,novice,myfirstkaggle,2,2017-08-05 10:48:57.330000000
+3,contributor,Help on Titanic Machine Learning,0,2017-08-05 03:45:51.002136800
+3,novice,New to this - can\u0027t figure out how to save predictions,0,2017-08-05 01:17:04.576879900
+3,novice,Titanic Sinking ,0,2017-08-04 23:58:06.777000000
+2,contributor,"Titanic,  pred. random forests algorithm, Python3",2,2017-08-04 14:06:32.030000000
+2,novice,Data Set usage for Research,0,2017-08-04 08:11:43.594593300
+3,novice,Exploratory Data Analysis on the Titanic Dataset,10,2017-08-04 02:04:59.293000000
+0,novice,Seeking for teammates to make cool stuff in this platform! ,1,2017-08-03 20:49:26.215146000
+8,novice,Wanted !! team members who are enthusiastic about ML  ,1,2017-08-02 18:54:11.141991300
+4,contributor,Titanic-deepnet using keras,7,2017-08-02 17:48:47.360000000
+0,contributor,Titanic - Data Analysis + RF Prediction 0.81818 ,0,2017-08-02 13:12:47.593000000
+4,novice,Visualising Datasets,0,2017-08-02 00:03:12.472079200
+3,novice,Titanic: Machine Learning Algorithms,8,2017-08-01 18:21:14.160000000
+2,contributor,GradientBoostingClassifier  80.111111,4,2017-08-01 10:12:58.047000000
+2,novice,My First submission - Titanic using python,3,2017-07-31 15:56:55.910000000
+0,novice,An Interactive Data Science Tutorial,0,2017-07-30 17:13:48.893000000
+2,novice,waiting for help,0,2017-07-30 06:27:15.541164100
+0,contributor,Titanic in R with naive Bayes of MLR package,1,2017-07-29 13:13:42.697000000
+15,novice,Is the ML course by Andrew NG at coursera good to start ML ?,3,2017-07-29 10:42:39.035825600
+5,contributor,Getting Started with Titanic,17,2017-07-29 08:40:49.027000000
+2,novice,End-to-End process for Titanic problem,17,2017-07-29 05:57:07.663000000
+0,contributor,"Looking for team members, I\u0027m an android developer.",0,2017-07-29 03:53:50.766639000
+12,contributor,Looking for team members,0,2017-07-28 20:39:45.948257100
+2,contributor,Logistic regression-Machine Learning-beginners,7,2017-07-28 20:09:39.803000000
+2,novice,Simple tutorial for Beginners,5,2017-07-28 06:10:00.707000000
+3,novice,Titanic Survival Prediction,0,2017-07-28 05:52:14.910000000
+0,novice,Catboost for Titanic(top 7%),8,2017-07-28 01:26:19.420000000
+0,novice,Why my stacking method is not working anymore?,0,2017-07-27 20:45:45.763551700
+1,novice,NEW to ML,1,2017-07-27 20:05:47.016990400
+10,novice,Teamup,0,2017-07-27 16:40:13.301382500
+3,novice,Trivial Titanic Survivor Prediction 0.79904,2,2017-07-27 07:48:36.803000000
+0,novice,Titanic tensorflow,0,2017-07-26 18:43:55.740000000
+0,novice,Python Logistic Regretion (0.84),0,2017-07-26 15:01:59.770000000
+0,expert,Running \u0022MLBox\u0022 auto-ML package on Titanic,14,2017-07-26 14:48:33.653000000
+5,contributor,Yandex CatBoost is amazing,8,2017-07-25 08:24:09.252143000
+11,contributor,Yandex CatBoost demo,9,2017-07-25 08:11:03.077000000
+2,contributor,Suggestions Requested to improve Feature Engineering used,0,2017-07-24 16:20:39.618906700
+2,contributor,Checking the accuracy of my decision tree,0,2017-07-24 16:02:39.263582100
+15,novice,"Looking for teammates, I have no experience",2,2017-07-24 12:30:08.819740900
+0,contributor,Looking for constructive feedback,0,2017-07-23 19:42:56.800702100
+0,novice,i am looking for a team,0,2017-07-22 13:52:02.779099100
+16,contributor,Looking for a team members,1,2017-07-22 13:22:47.985279200
+5,contributor,Step by step solving titanic problem,18,2017-07-21 14:55:48.290000000
+2,novice,Should I how to get the data?,1,2017-07-20 04:38:58.652570800
+2,contributor,Using CatBoost ,3,2017-07-19 21:30:31.407000000
+0,contributor,Machine Learning - Titanic Disaster Solutions,0,2017-07-19 17:46:18.050000000
+3,contributor,Titanic Machine Learning.,0,2017-07-19 16:07:07.003000000
+4,novice,What does it mean by Age is fractional if less than 1??,0,2017-07-19 15:43:37.540013500
+1,novice,Kernel SVM - Titanic R - code,1,2017-07-19 13:50:12.826046700
+3,novice,An Interactive Data Science Tutorial,0,2017-07-19 11:29:40.140000000
+13,novice,"Experienced R programmer (new to ML), looking for a team",0,2017-07-18 03:13:48.851515000
+33,novice,Looking for a team :),0,2017-07-17 23:29:01.044331200
+1,novice,The Problem of Correlation vs. Causation,0,2017-07-17 18:24:16.114846100
+3,contributor,How to increase the accuracy of my model?,0,2017-07-17 12:51:48.697142100
+2,contributor,"Start useing TFlearn, Acc: up to 90~85%",8,2017-07-16 06:55:21.120000000
+2,novice,titanictrial,0,2017-07-15 15:23:25.817000000
+0,novice,Titanic xgboost JJ,0,2017-07-15 13:53:51.743000000
+0,contributor,Fill in missing Age data in Titanic data set,7,2017-07-15 06:01:57.090000000
+22,contributor,Looking for a Team,0,2017-07-14 07:24:21.676774300
+7,novice,Are the Fares in titanic dataset accurate ?,1,2017-07-14 03:06:21.444560400
+7,contributor,Titanic: Machine Learning from EDA to XGB,30,2017-07-14 01:48:09.163000000
+139,expert,Titanic Top 4% with ensemble modeling,562,2017-07-13 21:52:52.383000000
+0,novice,Who will survive? A logistic Regression Example,0,2017-07-13 15:51:24.973000000
+7,novice,Looking for fellow kagglers to make a team.,0,2017-07-12 16:30:21.650822600
+0,novice,Titanic (R),7,2017-07-12 15:05:32.470000000
+14,novice,TOGETHER...this is how they survived ,13,2017-07-12 13:20:17.483000000
+5,contributor,Dream Team for DataScience(#begginer#Python#fast_learning),0,2017-07-12 12:03:23.873433600
+6,novice,Looking for team,1,2017-07-11 16:34:36.431677100
+3,novice,8% difference between accuracy and prediction,1,2017-07-10 23:20:22.770934500
+0,novice,Titanic by Neural Network with Keras,3,2017-07-10 12:58:55.360000000
+2,contributor,Another Titanic Kernel,0,2017-07-10 00:57:29.600000000
+2,novice,"Hey, I have done a full fledged course in ML algorithms and is familiar with python and octave.I am looking for enthusiastic teammates to work with,hoping we would have a great learning exerience.",0,2017-07-08 16:07:39.479194700
+0,novice,Yet another Titanic Notebook 0.80383 score,1,2017-07-08 11:25:44.783000000
+39,master,Beginner Tutorial Using VotingClassifier ~ 82.27,51,2017-07-08 06:30:41.760000000
+5,novice,Machine Learning Group,0,2017-07-07 16:48:14.783356300
+22,novice,Looking for team mates and fellow,4,2017-07-07 12:18:10.613749100
+0,expert,New auto-ML python package !! ,0,2017-07-07 09:03:07.893321800
+6,novice,I am starting a new Team,0,2017-07-07 07:26:46.364942400
+6,novice,Trouble to fill Missing values ,0,2017-07-07 04:34:49.751859100
+4,contributor,Titanic Survival Project,13,2017-07-07 02:05:34.483000000
+21,novice,Anyone interested in forming a team?,0,2017-07-06 12:58:55.475097200
+8,novice,Looking to set up a new team!,0,2017-07-05 20:50:00.795307000
+0,contributor,Titanic日本語チュートリアル　koji,6,2017-07-05 11:10:13.717000000
+42,novice,Looking for teammates,10,2017-07-05 07:52:06.720120700
+29,contributor,Titanic Data Processing with Python(0.813),50,2017-07-04 04:49:19.787000000
+1,novice,Passenger\u0027s deck and NaNs,0,2017-07-03 23:56:47.940421900
+0,novice,When create a new feature ?,0,2017-07-03 19:31:18.697106800
+2,novice,Predicting Missing data Using Regression Analysis,0,2017-07-03 14:10:55.533000000
+3,novice,Are you forced to use R/Python?,0,2017-07-03 12:22:23.688950500
+3,novice,Accuracy of 81%,0,2017-07-03 05:33:21.636576200
+3,novice,New to ML and DS - want to be part of a team,0,2017-07-02 17:10:26.672304400
+4,novice,Titanic - Logistic Regression in R,10,2017-07-01 22:33:47.737000000
+4,contributor,Tutorial - Predicting Survival on Titanic,5,2017-07-01 21:09:35.430000000
+11,contributor,Pythanic (Please Critique!) ~0.79904,9,2017-07-01 01:22:23.837000000
+0,contributor,Accuracy differences,0,2017-06-30 20:14:01.242913700
+49,grandmaster,Tidy TitaRnic,172,2017-06-30 15:50:50.750000000
+2,contributor,Data Visualization about Titanic-2,7,2017-06-30 07:46:51.787000000
+6,novice,First Try in Titanic,12,2017-06-30 03:06:56.807000000
+1,contributor,Improving accuracy and LB rank,0,2017-06-29 13:36:24.143355400
+18,novice,I am looking for a team,1,2017-06-29 10:07:49.284891000
+2,contributor,Should we do the preprocessing using Dataframe or is it wise to use List of arrays instead? ,2,2017-06-28 06:42:20.528471900
+23,contributor,Predicting fate of Titanic passengers,34,2017-06-26 07:29:30.430000000
+2,contributor,"Data exploration, random forests and XGBoost",0,2017-06-25 14:17:24.750000000
+2,contributor,Ahoy! Mateys! Looking for team members for ML,2,2017-06-25 12:04:45.553785400
+0,contributor,Learning Data Science: Kaggle\u0027s Titanic Machine Learning from Disaster,1,2017-06-25 03:26:35.261205800
+0,novice,titanic_survival_exploration,0,2017-06-24 16:21:43.707000000
+3,novice,Where to find the updated dataset - Titanic,1,2017-06-23 14:32:07.433300100
+3,contributor,How to deal with factors with multiple levels ,1,2017-06-21 08:15:30.660505200
+3,expert,"Diabolo Trick: Pre-train, Train and Solve (\u003e 0.8)",6,2017-06-21 06:17:11.793000000
+4,novice,Idea: Tool for comparing performance of different algorithms,1,2017-06-20 13:52:27.193581600
+33,contributor,My approach to Titanic competition,67,2017-06-20 10:12:15.363000000
+2,novice,Bayesian network approach using libpgm,0,2017-06-19 21:14:28.970000000
+3,contributor,First comment,0,2017-06-19 13:13:12.738100900
+2,novice,Spark+Scala solution,0,2017-06-19 03:54:53.333449300
+0,novice,Looking for a team member,1,2017-06-18 13:39:14.758732500
+0,novice,unable to group column values with low counts  from titanic  kernel,0,2017-06-18 10:11:34.256981100
+0,novice,Eager to join a team,0,2017-06-17 20:00:11.989371900
+4,novice,Using Logistic Regression for the Titanic problem,4,2017-06-16 16:03:17.437000000
+2,contributor,My First Kaggle Competition(Comments are welcome),0,2017-06-16 03:32:14.577000000
+7,contributor,Need team members,0,2017-06-15 16:39:13.822141200
+0,novice,Machine learning code,0,2017-06-15 00:16:41.135259600
+1,novice,Improved accuracy 87.5%,0,2017-06-14 20:59:39.542085600
+18,novice,Need team members,0,2017-06-13 17:24:04.178286200
+20,novice,Titanic - Neural Network,41,2017-06-13 14:20:41.293000000
+3,novice,Kernel script - Problem using read_csv to load local files,0,2017-06-13 08:56:53.589030700
+1,novice,Question about model selection,0,2017-06-13 00:42:45.862402000
+6,contributor,Anyone accepting a newbie as a team member,0,2017-06-12 16:24:37.626753000
+4,contributor,Stepping into the world of data science,5,2017-06-12 15:54:23.913000000
+2,contributor,Titanic Survival,4,2017-06-12 11:10:40.360000000
+0,novice,I cannot make (be) a team?,0,2017-06-11 21:45:59.124398300
+0,contributor,try it ,0,2017-06-11 15:22:33.210110900
+0,novice,Let\u0027s go hunting,0,2017-06-10 11:37:00.930685500
+11,novice,Looking out to build a team..,0,2017-06-10 05:36:00.247355300
+6,contributor,Titanic : using KNN,6,2017-06-09 19:04:45.500000000
+10,contributor,Looking for team members...,0,2017-06-09 12:46:58.132109700
+5,novice,Need a team member ,0,2017-06-09 12:14:16.367190400
+3,contributor,Titanic solution in R,1,2017-06-09 09:05:52.577000000
+2,novice,Weird error message,0,2017-06-08 20:24:32.420006000
+1,contributor,Random Forest Analysis,0,2017-06-08 15:23:20.539942100
+2,novice,Looking for team new to ML ,0,2017-06-08 15:18:54.066202100
+0,contributor,Simple aproach With tidyverse and caret,2,2017-06-07 17:21:20.333000000
+0,novice,Begin,0,2017-06-07 14:15:43.550627100
+0,contributor,Titanic with TFLearn network,0,2017-06-07 11:52:06.730000000
+13,contributor,Titanic - first kernel,34,2017-06-06 20:05:01.930000000
+0,expert,Divide and Conquer [0.82297],2,2017-06-06 06:17:20.010000000
+18,contributor,In-Depth Visualisations - Simple Methods,57,2017-06-05 15:03:37.320000000
+1,contributor,"Comparison between DecisionTreeClassifier, ExtraTreesClassifier and RandomForestClassifier",0,2017-06-05 14:17:31.916929100
+0,novice,"Comparing DecisionTreeClassifier, ExtraTreesClassifier and RandomForestClassifier",0,2017-06-05 13:26:23.295427100
+6,contributor,Looking for a team with Octave coding skills.,1,2017-06-05 07:41:57.112804300
+151,expert,Divide and Conquer [0.82296],201,2017-06-03 19:11:25.330000000
+2,novice,Basic Neural net Step by Step,0,2017-06-03 15:56:13.973000000
+9,contributor,Simple tutorial for Beginners,36,2017-06-03 11:39:59.673000000
+0,novice,Pytanic,0,2017-06-03 09:37:51.073000000
+1,novice,0 scores problems,0,2017-06-03 08:49:51.404447800
+2,contributor,What\u0027s a good score?,1,2017-06-03 07:57:01.861284600
+4,contributor,Getting Started in Competitions,18,2017-06-03 04:11:11.013000000
+71,contributor,Looking for newbies to team up with for comps,8,2017-06-03 02:47:15.755355500
+1,contributor,Not able to find patterns or new features out of Names,0,2017-06-02 05:17:45.259041600
+7,contributor,Looking for a team member,0,2017-06-01 22:58:18.942013200
+1,contributor,Team members required,0,2017-06-01 07:41:02.311134300
+2,novice,Lucky try,0,2017-06-01 07:18:06.001151000
+0,novice,Scikit-Learn ML from Start to Finish,0,2017-05-31 10:51:05.990000000
+1,novice,Spaces in CSV scores 0.00000...,0,2017-05-31 03:45:26.303437400
+11,novice,A (mostly!) tidyverse tour of the Titanic,19,2017-05-30 08:44:51.087000000
+2,novice,Exploring the Titanic Dataset,0,2017-05-30 03:42:51.623000000
+2,novice,My First Kernel - Titanic,5,2017-05-29 19:27:31.233000000
+2,novice,Over 0.8 with VotingClassifier,3,2017-05-29 09:43:03.950000000
+5,novice,Starting with Kaggle,1,2017-05-28 17:51:06.872276900
+0,contributor,Starter Pack,0,2017-05-28 10:52:40.563000000
+5,novice,Titanic Solutions - Python,14,2017-05-28 09:36:38.153000000
+0,novice,Exploring Survival on the Titanic,0,2017-05-26 14:34:53.380000000
+3,novice,Pytanic,3,2017-05-26 14:21:31.613000000
+2,novice,titanic数据的初步分析,1,2017-05-26 12:05:38.770000000
+26,contributor,Tensorflow-Deep Learning to Solve Titanic,26,2017-05-26 07:14:43.530000000
+0,novice,Titanic data,0,2017-05-25 09:29:39.157000000
+0,contributor,An Interactive Data Science Tutorial,0,2017-05-25 01:38:07.520000000
+0,novice,Titanic Data Science Solutions,2,2017-05-24 14:39:59.573000000
+3,contributor,Best way to fill in Age,1,2017-05-24 11:56:34.385715600
+0,novice,Titanic Data Science Solutions,0,2017-05-23 16:32:59.570000000
+9,novice,dúvida sobre os datasets [iniciante],3,2017-05-23 10:38:20.401868800
+0,novice,How to implement PDF Reader in tensorflow?,0,2017-05-23 07:11:30.678291300
+0,contributor,Titanic top 10% - My first competition,10,2017-05-22 19:37:22.267000000
+0,novice,Test for Titanic,0,2017-05-22 01:11:09.030000000
+8,novice,Scikit-Learn ML from Start to Finish,29,2017-05-21 22:44:58.583000000
+3,contributor,Applying Keras/Scikit-Learn to Titanic ,5,2017-05-21 20:57:27.503000000
+4,contributor,Titanic best working Classifier,0,2017-05-21 20:12:10.317000000
+1,novice,Can I write this in Java? instead of Python/R,1,2017-05-20 21:22:29.968203100
+2,novice,keras-nn classifier,4,2017-05-20 14:48:20.443000000
+0,novice,TITANIC HYBRID SOLUTION,0,2017-05-20 12:40:58.020792700
+3,contributor,Titanic Survival Prediction with Keras (Acc-.84),5,2017-05-20 06:26:12.370000000
+12,contributor,Let\u0027s run!,22,2017-05-20 00:06:53.433000000
+0,novice,Test - this is my title,0,2017-05-19 15:26:05.857000000
+4,novice,Titanic Data Science Solutions,4,2017-05-19 09:26:08.943000000
+2,novice,An Interactive Data Science Tutorial,4,2017-05-18 14:49:16.403000000
+3,novice,Titanic Data Science Solutions,2,2017-05-18 08:32:23.830000000
+0,novice,benja,0,2017-05-17 16:24:47.280000000
+2,novice,Fare meaning,1,2017-05-16 14:30:14.328527800
+3,expert,404 error when submitting from kernel,5,2017-05-16 12:26:27.399994200
+14,expert,Microsoft LightGBM with parameter tuning (~0.823),33,2017-05-16 11:59:40.563000000
+3,novice,Cannot upload submission files,1,2017-05-16 09:49:01.819700400
+2,novice,New Titanic team - Join me.,2,2017-05-16 02:20:15.374176000
+0,novice,Toby\u0027s Titanic Analysis,1,2017-05-16 00:42:18.623000000
+0,novice,An Interactive Data Science Tutorial,0,2017-05-15 21:50:51.667000000
+0,novice,Orderly Survival or the Zs get screwed again.,0,2017-05-15 20:06:51.871684900
+21,novice,Looking for a team up,0,2017-05-14 09:41:12.495834900
+0,contributor,Titanic Data Science Solutions,3,2017-05-12 19:33:42.240000000
+3,novice,Scikit-Learn ML from Start to Finish,8,2017-05-11 13:07:49.287000000
+6,novice,Not able to score more than 0.8,3,2017-05-11 09:15:47.715520700
+1,contributor,Submission of output file...,1,2017-05-11 08:48:55.257990600
+3,novice,Titanic - Cross Validation,0,2017-05-10 22:09:42.053000000
+8,contributor,Titanic Data Science Solutions  - Standard Process,2,2017-05-10 07:21:10.807000000
+0,novice,"New to Data Science , need a mentor cum team member",0,2017-05-10 03:44:27.802241200
+0,contributor,Titanic with GradientBoostingClassifier,0,2017-05-10 01:41:19.377000000
+3,contributor,Titanic Disaster - A Genetic Algorithm approach,5,2017-05-09 22:18:54.823000000
+0,contributor,Titanic Solution Using Speedml,0,2017-05-09 12:21:37.740000000
+6,novice,question to the so-called predict accuracy,1,2017-05-09 00:37:56.044033000
+1,contributor,Hints on extreme difference between test data and submission,0,2017-05-08 22:55:06.255581500
+0,novice,Learning about Notebooks,0,2017-05-08 21:59:56.533000000
+0,novice,How to Kaggle #1 - Titanic Survival Prediction,2,2017-05-08 21:22:03.300000000
+0,contributor,Error on Kaggle while running R script,0,2017-05-08 14:16:11.790010700
+0,contributor,Titanic Correlation Map and Machine Learning,0,2017-05-08 03:11:13.587000000
+3,expert,Optimal Titanic for Pclass only [0.65550],1,2017-05-07 07:59:03.290000000
+0,contributor,Titanic is sinking...,0,2017-05-06 16:13:58.330000000
+0,novice,Titanic Data Science Solutions,0,2017-05-06 14:52:58.233000000
+4,contributor,Question about What is a Random Forest,0,2017-05-06 13:18:08.591622100
+0,novice,"Note on Titanic tutorial, in Japanese（日本語で）",1,2017-05-06 11:36:38.403000000
+0,contributor,First try,0,2017-05-05 15:04:54.070000000
+29,expert,Interactive Dashboards in R,109,2017-05-05 07:03:56.090000000
+0,contributor,A Journey through Titanic 998321,0,2017-05-05 03:35:33.930000000
+0,expert,GP RNG Stability,0,2017-05-04 17:44:31.070000000
+57,novice,Looking for a team member,0,2017-05-04 15:26:20.736884000
+2,expert,A_Simple_Genetic_Programming [0.79426],0,2017-05-04 02:45:28.857000000
+2,contributor,RandomForest: data preparation and expected performance,0,2017-05-03 18:32:47.155095200
+0,contributor,An Interactive Data Science Tutorial f3365b,0,2017-05-03 14:50:30.780000000
+5,novice,Titanic-0.82297,9,2017-05-03 14:25:59.373000000
+3,novice,My First Kaggle Notebook,8,2017-05-02 05:15:58.827000000
+4,novice,Predictive Analysis of Survival Rate on Tit 0f01a0,2,2017-05-01 21:08:04.920000000
+20,contributor,Trying neural network,17,2017-05-01 16:17:21.640000000
+0,novice,Scikit-Learn ML from Start to Finish,12,2017-05-01 06:04:14.747000000
+2,novice,Scikit-Learn ML from Start to Finish,5,2017-05-01 02:46:24.727000000
+0,novice,Titanic Kernel,0,2017-04-30 22:46:26.320000000
+0,novice,An Interactive Data Science Tutorial,2,2017-04-30 17:09:46.113000000
+6,novice,Adaline much worse than Perceptron,1,2017-04-30 15:08:01.461971000
+0,novice,titanic prediction-submission,0,2017-04-30 15:07:26.984284300
+0,novice,TitanicLearningQI 98f86a,0,2017-04-30 04:18:27.490000000
+5,contributor,Titanicタイタニック号の生存確率（kaggle初チャレンジ）,19,2017-04-29 19:51:09.087000000
+0,novice,Titanic Data Science Solutions,0,2017-04-28 23:22:57.573000000
+69,contributor,Titanic - Data Analysis + RF Prediction 0.81818 ,96,2017-04-27 13:21:09.383000000
+2,novice,Titanic Data Science Solutions,0,2017-04-27 04:32:34.307000000
+0,contributor,KappaVoid - Testing,5,2017-04-26 22:32:51.220000000
+4,novice,Starting my journey here with...Titanic,15,2017-04-26 16:26:42.480000000
+0,contributor,Fork of Titanic Survival Predictions,0,2017-04-26 13:29:10.307000000
+0,novice,Titanic Data Solutions(Translate into chinese),0,2017-04-26 08:19:55.557000000
+0,contributor,Titanic surviver prediction ,0,2017-04-25 17:05:41.817000000
+21,novice,New Team (Learning together),2,2017-04-25 11:31:15.668065400
+4,expert,CV and leaderboard score: Are training set and test set different?,3,2017-04-24 17:53:36.329959300
+3,novice,Titanic Survival list using classification ,4,2017-04-24 15:03:28.513000000
+0,novice,Titanic Tutorial with Python,0,2017-04-24 14:26:02.137521500
+0,novice,Jeder Anfang ist schwer,0,2017-04-23 21:10:27.897000000
+2,expert,Optimal Titanic for Gender only [0.7655],0,2017-04-23 00:19:12.443000000
+2,novice,Scikit-Learn ML from Start to Finish,0,2017-04-22 17:26:34.420000000
+0,novice,Scikit-Learn ML from Start to Finish,0,2017-04-21 13:10:35.030000000
+2,novice,Titanic Data Science Solutions d3a853,2,2017-04-20 07:17:17.977000000
+2,novice,An Interactive Data Science Tutorial,3,2017-04-20 07:10:39.327000000
+2,novice,Laczy76\u0027s Titanic Data Science Solutions,0,2017-04-19 11:32:12.247000000
+0,contributor,Exploring Titanic dataset in Python,0,2017-04-19 08:47:31.057000000
+5,novice,Titanic,14,2017-04-19 00:48:24.410000000
+0,novice,Titanic best working Classifier,0,2017-04-18 07:34:58.837000000
+4,novice,An Interactive Data Science Tutorial,16,2017-04-18 02:23:27.970000000
+22,contributor,TitanicLearningQI,70,2017-04-18 01:59:35.610000000
+0,contributor,Titanic try,0,2017-04-17 19:04:24.467000000
+3,novice,Titanic,1,2017-04-17 13:24:50.560000000
+0,novice,Titanic: Machine Learning from Disaster ,1,2017-04-16 17:15:33.083000000
+0,novice,A Journey through Titanic,2,2017-04-16 14:49:13.230000000
+0,novice,Predictive Analysis of Survival Rate on Titanic,0,2017-04-16 12:01:41.213000000
+24,novice,Titanic: Machine Learning from Disaster ,43,2017-04-16 10:52:05.123000000
+7,contributor,Feature selection and classifier testing,3,2017-04-14 18:39:21.260000000
+2,novice,Exploring Survival on the Titanic,9,2017-04-14 14:46:26.327000000
+4,contributor,Notebook for Titanic,2,2017-04-12 12:05:06.740000000
+0,contributor,The solution to Titanic Problem: First Attempt,4,2017-04-12 10:11:14.703000000
+2,novice,New Group Started - Urban Arithmetic,1,2017-04-12 04:30:45.092084100
+156,grandmaster,Pytanic,356,2017-04-11 22:20:20.277000000
+7,novice,Predictive Analysis of Survival Rate on Titanic,5,2017-04-11 15:01:14.280000000
+0,novice,An Interactive Data Science Tutorial,0,2017-04-11 12:38:27.190000000
+1,master,CV score and LB,0,2017-04-10 23:33:26.665419200
+4,contributor,Is all the data useful?,1,2017-04-10 20:31:10.978427300
+4,novice,Mismatch name error: Need help,0,2017-04-10 17:19:22.628090000
+4,novice,Introduction to Ensembling/Stacking in Pyth ace527,6,2017-04-10 01:28:01.730000000
+29,novice,New Team,0,2017-04-09 19:08:28.041465800
+0,novice,Who all survived the Titanic,6,2017-04-09 01:24:08.030000000
+2,contributor,Titanic Classifier Ensemble Stacking with XGBoost,5,2017-04-08 22:40:28.180000000
+7,novice,Titanic Random Forest: 82.78%,5,2017-04-08 22:29:45.817000000
+2,novice,An Interactive Data Science Tutorial e67527,0,2017-04-08 14:00:57.707000000
+0,novice,Titanic Data Science Solutions,0,2017-04-07 13:52:25.707000000
+2,novice,A Journey through Titanic 1ad5fd,0,2017-04-07 13:39:20.930000000
+4,novice,Test accuracy vs Submission accuracy,0,2017-04-07 05:23:44.239373300
+0,novice,Solving the Titanic Problem (Naive Approach),0,2017-04-07 00:20:24.953000000
+2,novice,Come from South Park,3,2017-04-06 11:21:51.320000000
+10,expert,Increase your model accuracy with this feature,12,2017-04-05 19:37:58.767000000
+3,novice,Titanic Data Science Solutions,0,2017-04-05 13:37:30.923000000
+2,novice,Worse result after refining prediction in Excel tutorial,0,2017-04-05 08:50:22.536976700
+0,novice,Titanic Data Science Solutions - 01,4,2017-04-05 03:37:19.140000000
+1,novice,what is wrong in this code? someone help please,0,2017-04-04 16:42:16.641433900
+0,novice,My R Titanic,2,2017-04-04 14:48:54.857000000
+0,contributor,Test Titanic Data Notebook,1,2017-04-04 12:54:57.670000000
+3,novice,An Interactive Data Science Tutorial,0,2017-04-04 09:34:32.937000000
+2,contributor,A guide to Titanic challenge,12,2017-04-03 07:52:56.927000000
+3,contributor,Low score even though predictions are correct?,0,2017-04-03 06:16:47.669948600
+1,novice,0 score,0,2017-04-03 02:21:46.928943400
+1,novice,Titanic\u0027s other factors to increase accuracy of ML models,0,2017-04-01 16:48:19.163218600
+4,novice,how kaggle calculate the scores in leaderboard?,0,2017-04-01 10:18:41.586896800
+11,contributor,try Titanic problem,6,2017-04-01 03:46:04.043000000
+0,novice,RandomForest approch with `caret` package,0,2017-03-31 11:27:40.647000000
+1,contributor,Trusting in Local-CV or Public-LB?,0,2017-03-31 09:08:35.680419900
+2,novice,Notebookce2aafb261,1,2017-03-30 13:14:56.533000000
+0,novice,Exploring Survival on the Titanic,2,2017-03-30 06:07:23.403000000
+0,novice,Complete Journey Through A First Attempt To Submit,0,2017-03-29 19:32:15.563000000
+0,novice,A Journey through Titanic,0,2017-03-29 18:48:42.690000000
+7,novice,Titanic best working Classifier,5,2017-03-29 12:28:18.410000000
+0,novice,Titanic best working Classifier,2,2017-03-29 01:46:59.360000000
+0,contributor,Fork of Fork of titanic 1,2,2017-03-29 00:28:13.580000000
+4,novice,Titanic_1,1,2017-03-28 12:00:11.957000000
+0,contributor,Titanic Survival Prediction,0,2017-03-28 11:25:51.490000000
+0,novice,Notebook0c0ea5581a,2,2017-03-28 06:28:07.683000000
+4,contributor,Find the country of origin by last name,2,2017-03-27 14:44:24.077249800
+2,novice,One Solution to Titanic Survival Analysis ,3,2017-03-27 05:31:00.053000000
+0,novice,An Interactive Data Science Tutorial,0,2017-03-26 16:21:49.243000000
+2,novice,Titanic Random Forest: 82.78%,0,2017-03-26 14:16:16.853000000
+2,novice,The test data does not contain the Survived column. How to evaluate it? ,0,2017-03-26 12:34:30.532358000
+0,novice,First,0,2017-03-26 04:05:16.610000000
+0,novice,Titanic Data Science Solutions,2,2017-03-25 23:54:35.323000000
+2,contributor,Titanic Problem- Random Forest Classifier with CV,0,2017-03-25 10:47:51.140000000
+2,contributor,Scikit-Learn ML from Start to Finish,0,2017-03-24 18:52:44.707000000
+0,contributor,Titanic test,0,2017-03-24 09:04:43.730000000
+0,novice,Exploratory Tutorial - Titanic ,0,2017-03-23 16:55:25.207000000
+0,novice,first_forest,0,2017-03-23 16:03:11.307000000
+0,novice,Notebooka3ac5c3aca,2,2017-03-23 14:44:22.897000000
+0,novice,Comparison of accuracy of Prediction Models on Titanic Dataset,0,2017-03-23 07:27:50.196056200
+0,novice,Introduction to Ensembling/Stacking in Python,0,2017-03-23 06:15:11.223000000
+0,novice,An Interactive Data Science Tutorial,0,2017-03-23 02:30:16.803000000
+0,novice,Test Titanic,0,2017-03-23 00:48:14.213000000
+30,contributor,Predictive Analysis of Survival Rate on Titanic,52,2017-03-22 20:57:46.270000000
+7,contributor,Predictions Using Logistic Regression,6,2017-03-22 12:49:28.877000000
+0,novice,Titanic Passenger Graphs for Feature Inspection,0,2017-03-22 12:48:46.613000000
+1,novice,Submission score of 0.00000 - is something wrong?,1,2017-03-22 02:17:50.128154300
+0,novice,Titanic best working Classifier 6927cd,0,2017-03-21 06:30:21.937000000
+0,novice,Exploring Survival on the Titanic,0,2017-03-20 19:38:11.913000000
+0,contributor,Titanic Data Science Solutions,0,2017-03-20 14:49:56.387000000
+0,contributor,Exploring the Titanic dataset with R,15,2017-03-20 13:54:59.073000000
+2,contributor,"NASA Astronauts, 1959-Present",0,2017-03-20 06:52:12.820000000
+12,novice,Predicting chances of survival on the Titanic,4,2017-03-19 19:35:31.347000000
+3,novice,Scikit-Learn ML from Start to Finish,2,2017-03-19 16:04:31.577000000
+0,novice,Titanic Random Forest: 82.78% e6c9af,4,2017-03-18 15:09:59.587000000
+4,novice,Titanic Data Science Solutions,15,2017-03-18 13:26:38.797000000
+0,novice,Titanic DataSet Solution Using Logistic Regression,0,2017-03-18 08:46:26.123000000
+2,novice,testing,2,2017-03-17 14:24:13.503000000
+7,novice,Titanic Learning,14,2017-03-17 11:43:42.613000000
+0,contributor,Exploring Survival on the Titanic,2,2017-03-17 08:22:53.450000000
+0,novice,An Interactive Data Science Tutorial,0,2017-03-17 01:52:57.367000000
+0,novice,Titanic Data Science Solutions,4,2017-03-16 13:25:53.843000000
+0,novice,Introduction to Ensembling/Stacking in Python,1,2017-03-16 07:09:40.017000000
+2,novice,An Interactive Data Science Tutorial,0,2017-03-16 02:22:19.440000000
+2,novice,Titanic Predictions - Random Forests (\u003e80%),3,2017-03-15 22:55:55.247000000
+0,contributor,Notebook0dc1b3f4ae,0,2017-03-15 20:08:10.663000000
+0,contributor,Genetic Programming LB ~ 0.88,1,2017-03-15 11:08:14.567000000
+4,novice,my project,1,2017-03-15 06:11:46.153000000
+17,contributor,DHC: Titanic - Random Forests (\u003e80%),7,2017-03-15 01:22:52.077000000
+0,novice,Titanic: random forest using sklearn and pandas,1,2017-03-14 20:34:36.023000000
+0,contributor,Titanic Data Science Solutions,0,2017-03-14 14:31:02.163000000
+3,novice,test1,0,2017-03-14 07:39:17.700000000
+2,contributor,Guide to using AWS Machine Learning and Titanic Dataset ,0,2017-03-14 05:10:17.006581200
+4,novice,An Interactive Data Science Tutorial,24,2017-03-13 21:35:50.250000000
+1,novice,How does kaggle calculate private leaderboard?,0,2017-03-13 07:05:29.893396700
+1,contributor,KNIME and Kaggle Walkthrough - Part 2: Building a simple Model \u0026 submitting a score,0,2017-03-13 03:09:10.749898700
+1,contributor,How to properly evaluate the accuracy of classifiers using sklearn?,0,2017-03-13 01:53:39.040028600
+2,novice,First test notebook,0,2017-03-12 11:33:49.020000000
+3,novice,Titanic - Book 3 - Decision Trees ,0,2017-03-12 10:42:19.143000000
+4,contributor,Data design for Titanic dataset,4,2017-03-12 03:10:30.163000000
+0,contributor,Titanic Caret,1,2017-03-11 19:59:10.797000000
+2,novice,Exploratory Tutorial - Titanic ,2,2017-03-11 17:09:11.057000000
+3,contributor,Learning from Exploratory Tutorial - Titanic ,3,2017-03-11 02:50:58.453000000
+7,contributor,Rolling in the Deep! ,21,2017-03-11 02:41:13.690000000
+4,contributor,TITANIC: SURVIVAL ANALYSIS WITH EXCEL FOR BEGINNERS,1,2017-03-10 18:22:49.916881400
+0,contributor,GeneticProgramming,0,2017-03-10 17:43:36.087000000
+2,novice,currency of the fare,0,2017-03-09 23:48:05.357784600
+0,contributor,Titanic Random Forest: 82.78%,0,2017-03-09 19:05:51.120000000
+9,novice,Titanic Data Science Solutions,38,2017-03-09 12:31:22.613000000
+7,contributor,SurvivalPrediction,1,2017-03-09 11:55:34.110000000
+0,novice,A Journey through Titanic,0,2017-03-08 17:26:25.580000000
+0,contributor,based on Genetic Programming LB,0,2017-03-08 10:46:15.720000000
+3,contributor,KNIME Tutorials for Data Science,5,2017-03-08 05:19:05.271775900
+0,contributor,Scikit-Learn  and GridSearchCV,0,2017-03-08 00:36:44.027000000
+4,contributor,Leaderboard Score 1.0?,8,2017-03-08 00:04:02.214030700
+0,novice,Titanic ship dataset analysis,2,2017-03-06 15:50:59.073000000
+9,contributor,Feature Engineering and several ML Algos,9,2017-03-05 08:48:29.620000000
+0,novice,(Fork) Introduction to Ensembling/Stacking,0,2017-03-04 17:03:32.470000000
+3,novice,Where exactly is the csv output that I generated?,0,2017-03-04 03:41:08.432845200
+0,contributor,Introduction to Ensembling/Stacking in Python,1,2017-03-02 11:53:37.347000000
+4,contributor,Machine and Deep Learning - Stacking Classifier,6,2017-02-28 20:41:19.913000000
+0,contributor,A Journey through Titanic,0,2017-02-28 16:58:56.447000000
+2,contributor,Copy of Titanic best working Classifier,0,2017-02-27 17:17:41.887000000
+4,novice,Titanic Random Forest: 82.78%,4,2017-02-27 03:26:55.130000000
+0,novice,Notebook918e1ecdee,0,2017-02-27 03:15:10.020000000
+2,novice,Random Forest Benchmark (R),0,2017-02-26 04:36:02.403000000
+11,novice,Logistic Regression Model Titanic Dataset,0,2017-02-25 17:45:29.420000000
+6,novice,Predicting Survival on the Titanic,3,2017-02-25 17:00:32.357000000
+2,contributor,Titanic with learning curves,5,2017-02-24 21:08:55.943000000
+5,contributor,Swimming in the Titanic Data - Python Way,5,2017-02-24 20:04:27.170000000
+17,contributor,Introduction to Decision Trees (Titanic dataset),32,2017-02-21 22:07:43.133000000
+0,novice,RealStats,0,2017-02-21 19:07:00.462524200
+0,novice,A Journey through Titanic,2,2017-02-21 15:30:44.390000000
+0,novice,Multiple Classifiers Trial on Titanic,4,2017-02-21 06:41:17.367000000
+0,novice,Py-Titanic ML from Disaster,4,2017-02-20 19:39:05.810000000
+2,novice,Titanic best working Classifier 50e9a4,2,2017-02-20 01:12:11.457000000
+0,novice,test tensorflow,0,2017-02-19 12:20:27.410000000
+2,novice,Titanic Random Forest: 82.78%,6,2017-02-18 12:50:21.907000000
+0,expert,keras,0,2017-02-17 07:20:10.393000000
+3,contributor,Titanic Ace233,0,2017-02-16 08:58:01.663000000
+5,novice,Titanic with Keras,3,2017-02-15 20:53:39.813000000
+8,novice,Swimming in the Titanic Data,6,2017-02-15 10:20:21.710000000
+4,master,Titanic Random Forest: 82.78%,11,2017-02-15 09:09:43.500000000
+2,expert,An Interactive Data Science Tutorial,2,2017-02-14 10:52:32.247000000
+2,novice,A Journey through Titanic,0,2017-02-13 03:40:57.130000000
+0,contributor,Ensemble of Logistic and Gradient Boosted,0,2017-02-12 22:02:23.897000000
+505,master,Introduction to Ensembling/Stacking in Python,2001,2017-02-12 11:00:08.047000000
+6,contributor,Who will survive - Titanic?,3,2017-02-12 03:31:59.150000000
+3,novice,An Interactive Data Science Tutorial,13,2017-02-11 10:49:49.077000000
+2,contributor,GeneticProgramming,1,2017-02-09 17:41:27.610000000
+0,contributor,"Feature engineering, data imputation - 80.86",2,2017-02-09 16:09:22.483000000
+2,novice,Survival Exploration on the Titanic,4,2017-02-09 05:35:27.360000000
+0,novice,My first pen test,1,2017-02-07 17:24:27.823000000
+3,novice,Titanic best working Classifier(ma),2,2017-02-07 05:23:09.540000000
+2,expert,First Kernel submission,4,2017-02-05 05:48:38.333000000
+2,novice,Titanic Random Forest: 82.78%,2,2017-02-05 03:06:35.697000000
+0,novice,A Journey through Titanic,1,2017-02-04 16:59:38.040000000
+4,novice,Why is there such a big difference between my validation score and the leaderboard score?,2,2017-02-04 13:44:22.874672100
+0,novice,Titanic Dataset Competition,2,2017-02-04 12:27:46.913000000
+0,novice,A Journey through Titanic 4693d418,2,2017-02-04 06:28:32.027000000
+0,novice,Exploring Survival on the Titanic,2,2017-02-04 06:16:54.347000000
+2,contributor,Tensorflow,10,2017-02-03 21:24:12.930000000
+0,contributor,Titanic Survival Prediction End to End ML Pipeline,1,2017-02-03 19:15:08.600000000
+24,contributor,Titanic Random Forest: 82.78%,75,2017-02-03 19:00:01.740000000
+0,novice,How can I remove the Submission?,1,2017-02-03 12:44:51.223661300
+4,novice,Can we still submit for Titanic?,1,2017-02-03 03:21:29.863745600
+3,novice,Fork of A Journey through Titanic 5efc63f7,0,2017-02-01 17:52:12.260000000
+2,novice,Exploring The Titanic Dataset,3,2017-02-01 13:38:18.407000000
+48,staff,Getting Started with Excel: Kaggle\u0027s Titanic Competition,88,2017-02-01 00:41:56.238051600
+2,staff,An Interactive Data Science Tutorial,2,2017-01-31 19:42:42.370000000
+1,novice,Problems running genderclassmodel.py,0,2017-01-31 09:28:15.870796300
+0,novice,TensorFlow-Titanic,0,2017-01-31 09:00:47.670000000
+0,expert,Analyzing Titanic Dataset,13,2017-01-31 04:57:58.987000000
+3,contributor,Titanic Voting Classifier w/ Cross Validation,0,2017-01-30 04:17:47.160000000
+0,contributor,"Titanic Neural network c(4,2)",0,2017-01-27 06:14:33.803000000
+1,contributor,Cold as ice...  surviving Titanic with xgboost,4,2017-01-25 21:26:52.987000000
+2,novice,"Different submission file, same score",0,2017-01-25 15:36:06.640000000
+6,contributor,Missing values that you can\u0027t miss in Titanic,8,2017-01-25 06:52:59.117000000
+76,contributor,An Interactive Data Science Tutorial,390,2017-01-24 12:06:32.943000000
+3,expert,Random Forest Benchmark (R)-vf,2,2017-01-24 05:06:07.787000000
+2,contributor,Titanic:  Maritime Machine Learning,5,2017-01-24 01:46:01.420000000
+2,novice,Titanic Random Forest,0,2017-01-24 01:31:03.823000000
+1,novice,Titanic Notebook,2,2017-01-23 21:54:31.180000000
+2,contributor,"RandomForest, Feature eng, Imputation - Titanic",5,2017-01-23 16:46:11.827000000
+1,contributor,A Journey through Titanic,7,2017-01-23 13:07:14.590000000
+0,contributor,Prediction with AdaBoost Algorithm,0,2017-01-23 03:21:57.587000000
+2,novice,Data Analysis,4,2017-01-20 09:40:22.870000000
+1,novice,A Journey through Titanic,0,2017-01-20 06:44:30.230000000
+2,novice,Decision Tree Visualization \u0026 Submission,1,2017-01-17 02:20:20.190000000
+10,master,~0.808 with Simple Stacking,36,2017-01-17 00:31:36.197000000
+0,novice,Titanic Logistic Regression Classification,0,2017-01-16 01:25:26.740000000
+0,contributor,SVM (Kernel: Poly or Sigmoid) is infitively slow,0,2017-01-14 14:49:03.840000000
+0,contributor,"Titanic, End-to-end Pipeline/Stacking/GridSearch",0,2017-01-14 10:45:41.340000000
+5,novice,syntax problem in reading row from train.csv,0,2017-01-14 08:47:13.750000000
+0,contributor,Notebook90867db793,0,2017-01-13 05:49:46.500000000
+1,novice,Random Forest Benchmark (R) - Sarah,0,2017-01-12 19:19:10.477000000
+1,novice,Account for NA values ,0,2017-01-12 15:07:57.387000000
+0,novice,OneHotEncoder,0,2017-01-12 03:17:08.833000000
+1,novice,Why is the score on LB bad while the cv result is good for RF ?,0,2017-01-11 13:34:48.317000000
+1,novice,If you travel for free you die !!,0,2017-01-11 11:14:35.937000000
+1,novice,Does a fold mean a split or one fold in the split?,0,2017-01-11 09:23:28.447000000
+0,contributor,Random Forest in R vs in Python,2,2017-01-11 06:05:45.603000000
+0,contributor,Effect of PassengerId,0,2017-01-10 05:44:04.727000000
+0,contributor,Genetic Programming LB ~ 0.88,0,2017-01-10 04:14:08.533000000
+0,contributor,Rapid Explore Titanic without coding,0,2017-01-09 02:50:43.797000000
+1,contributor,A Journey through Titanic,0,2017-01-08 13:21:37.893000000
+13,contributor,Titanic: Data Analysis and Machine Learning,23,2017-01-07 17:51:36.027000000
+1,novice,Exploring Survival on the Titanic,0,2017-01-06 17:13:43.647000000
+1,contributor,Titanic Survive Analysis,2,2017-01-06 13:31:55.457000000
+2,contributor,solution,1,2017-01-06 06:53:36.267000000
+1,contributor,A forked Journey through Titanic,0,2017-01-06 05:18:08.453000000
+2,expert,My Titanic Attempt,5,2017-01-05 17:18:28.680000000
+3,contributor,"Titanic, Mechanic, Machine Learning",10,2017-01-05 16:25:03.277000000
+2,novice,Best Model: Mixed classifier,4,2017-01-02 04:52:57.450000000
+0,novice,Am I allowed to infer race from names?,0,2017-01-01 23:39:29.873000000
+546,contributor,Titanic Data Science Solutions,1638,2017-01-01 13:38:35.613000000
+1,novice,Titanic Solution: Utility and Main Scripts,0,2017-01-01 00:58:11.513000000
+0,contributor,Why the dataset is allready splitted,1,2016-12-31 09:11:56.777000000
+6,contributor,Titantic Survival Data Exploration,5,2016-12-30 23:40:00.340000000
+7,novice,Titanic Survivorship Analysis,12,2016-12-30 18:30:35.370000000
+2,contributor,Titanic - Data Visualization \u0026 ML,7,2016-12-30 18:00:56.877000000
+1,novice,Simple RandomForest,0,2016-12-29 18:24:36.243000000
+0,novice,how to use R in kaggle,0,2016-12-28 23:36:40.550000000
+1,staff,Notebook62bc708404,0,2016-12-28 21:15:13.340000000
+0,contributor,test kaggle,0,2016-12-28 11:06:54.083000000
+1,novice,"R - script Error : predict.randomForest(rf, test) : missing values in newdata",0,2016-12-27 10:19:09.967000000
+2,novice,Newby Problem! Problem with predicting on test set.,0,2016-12-27 07:19:56.547000000
+64,expert,Titanic Survival Prediction End to End ML Pipeline,278,2016-12-26 11:23:20.890000000
+0,novice,Exploring Titanic Survival with Chainer,0,2016-12-25 20:41:29.463000000
+0,contributor,GridSearchCV is selecting parameters giving low accuracy?,0,2016-12-25 20:04:15.967000000
+0,contributor,Plotting the Decision Boundary / Decision Surface,0,2016-12-25 12:37:58.617000000
+5,expert,A_Simple_Genetic_Programming,6,2016-12-23 13:56:51.240000000
+1,novice,In leaderboard some people have 1 score. What’s up about it？,0,2016-12-22 15:57:24.177000000
+0,novice,ERROR FLOAT32,0,2016-12-22 02:03:03.323000000
+2,contributor,Yet Another Titanic Dataset Analysis,2,2016-12-21 23:36:26.090000000
+2,novice,Yet Another Beginning Titanic Entry,3,2016-12-21 04:22:32.223000000
+2,contributor,First prediction – All Female Survived,3,2016-12-20 15:27:29.853000000
+1,contributor,A Journey through Titanic e3738683,0,2016-12-19 11:24:53.910000000
+2,novice,A Journey through Titanic aad1adde,0,2016-12-18 12:46:33.690000000
+1,contributor,Random Forest Benchmark (R),0,2016-12-17 10:48:25.940000000
+4,contributor,Genetic Programming (R example),6,2016-12-17 10:01:40.953000000
+1,novice,First Kaggle Submission,0,2016-12-16 07:56:16.540000000
+6,novice,Openning csv file,0,2016-12-15 19:16:11.003000000
+1,novice,Random Forest Benchmark (R),0,2016-12-15 03:35:35.180000000
+2,novice,Sink or survive?,2,2016-12-14 22:06:48.600000000
+0,novice,Building model for titanic,0,2016-12-14 17:49:26.227000000
+2,novice,A Journey through Titanic 4af7ca2b,0,2016-12-14 16:16:45.547000000
+2,novice,Titanic Data Wrangling and Analysis,2,2016-12-14 10:00:28.830000000
+0,novice,A Journey through Titanic,0,2016-12-14 08:29:14.743000000
+1,contributor,A Journey through Titanic,0,2016-12-13 22:03:07.523000000
+1,novice,Description of Files,0,2016-12-13 21:18:09.307000000
+0,novice,Error in solution from proportion of survivors,0,2016-12-13 12:31:31.860000000
+1,novice,Can I fill miss data by learning algorithm？,0,2016-12-12 10:11:43.060000000
+2,novice,CSV file write problem,0,2016-12-11 17:12:02.203000000
+6,contributor,Save the Families!,10,2016-12-11 12:07:29.020000000
+101,contributor,Titanic best working Classifier,435,2016-12-10 18:56:35.933000000
+1,novice,A Journey through Titanic aeb4367c,0,2016-12-10 15:10:05.343000000
+3,contributor,Submission error message,0,2016-12-10 13:10:48.140000000
+0,contributor,Submission error,0,2016-12-09 18:48:38.613000000
+1,contributor,Notebookc9681ca417,0,2016-12-09 17:18:03.153000000
+1,novice,feature engineering question,0,2016-12-09 01:08:51.223000000
+3,contributor,What\u0027s a Good Score for the Titanic Competition?,3,2016-12-08 01:36:41.423000000
+0,novice,Beginner Help,0,2016-12-07 21:04:58.900000000
+1,novice,Help getting the predictions in TensorFlow,0,2016-12-06 19:21:21.627000000
+0,contributor,Neural Net Implementation,0,2016-12-06 18:03:57.037000000
+5,novice,Sigmoid function for LogisticRegression/NeuralNets,1,2016-12-03 07:55:44.290000000
+1,novice,Leaderboard,0,2016-12-01 20:23:10.287000000
+0,novice,Leaderboard,0,2016-12-01 20:21:58.237000000
+1,novice,Titanic Modelling,3,2016-11-28 03:54:19.600000000
+0,novice,gbdt overfitting,0,2016-11-26 14:31:21.267000000
+1,novice,A Journey through Titanic a18651b5,0,2016-11-26 09:09:39.930000000
+0,contributor,Random Forest VS SVM,0,2016-11-26 05:46:39.517000000
+0,novice,Titanic Survivors,0,2016-11-24 13:09:40.360000000
+1,novice,Decision Tree Visualization \u0026 Submission,0,2016-11-24 09:13:43.973000000
+1,contributor,My First Neural Network,0,2016-11-24 01:20:51.347000000
+1,contributor,Modify the data in the Fare column to = 39,0,2016-11-23 14:08:48.240000000
+2,novice,StartScript,0,2016-11-23 05:06:33.103000000
+1,novice,Exploring Survival on the Titanic,0,2016-11-23 00:09:55.393000000
+0,novice,A Journey through Titanic,1,2016-11-22 19:47:57.510000000
+0,novice,Gradient boosting,0,2016-11-22 03:32:04.377000000
+0,contributor,Titanic Script ,0,2016-11-20 17:36:13.770000000
+1,novice,Notebook47f1e61714,1,2016-11-20 14:19:56.703000000
+1,novice,My first Python script,1,2016-11-20 14:12:05.643000000
+4,novice,Random forest gives better results with less estimators?,0,2016-11-19 18:34:41.500000000
+1,contributor,A Journey through Titanic,0,2016-11-19 14:07:16.393000000
+0,novice,SVM Model,0,2016-11-18 00:19:09.747000000
+1,contributor,titanic_neural_0.080861,3,2016-11-17 02:37:55.123000000
+4,novice,Converting Fields From Blur to Countable Fields,0,2016-11-17 02:03:42.197000000
+1,contributor,A Journey through Titanic,4,2016-11-15 11:12:25.297000000
+1,novice,Random Forest Benchmark (R),3,2016-11-15 06:10:51.403000000
+2,novice,Titanic: PreProcessing + ML Tutorial,4,2016-11-14 21:26:51.680000000
+0,contributor,Feature Engineering \u0026 Theory for Missing Values,1,2016-11-13 23:59:36.727000000
+2,contributor,Titanic using SVM classifierx,2,2016-11-12 12:12:36.417000000
+6,contributor,Tensorflow/Keras on Titanic dataset,8,2016-11-11 18:40:27.927000000
+1,contributor,Titanic Random Forest,0,2016-11-11 16:55:28.263000000
+2,novice,Titanic without Visualizations,3,2016-11-11 00:08:59.280000000
+3,contributor,Roy\u0027s Titanic Notebook,25,2016-11-10 14:12:19.180000000
+33,contributor,Predicting Survival on the Titanic,48,2016-11-09 02:01:01.970000000
+0,novice,Dynamic Data Analysis,0,2016-11-09 00:23:47.457000000
+0,expert,Using VotingClassifier to score above 0.8,0,2016-11-07 17:30:35.403000000
+2,expert,Exploratory Tutorial - Titanic Disaster,9,2016-11-05 11:48:20.190000000
+2,expert,Titanic: Machine Learning from a disaster,3,2016-11-05 08:39:50.170000000
+2,novice,Exploring Survival on the Titanic,0,2016-11-04 19:04:27.990000000
+1,contributor,Exploratory Tutorial - Titanic ,0,2016-11-02 17:29:49.387000000
+0,contributor,Titanic Data Analysis,0,2016-11-02 17:20:11.450000000
+2,contributor,Test12,0,2016-11-02 13:24:44.547000000
+1,novice,Titanic: Comparison of classifiers,6,2016-11-02 12:59:10.527000000
+3,contributor,Titanic RandomForest Mice,2,2016-11-01 18:48:00.787000000
+0,novice,Rank deficiency for qda in train data set,1,2016-11-01 06:29:08.317000000
+5,contributor,Genetic Programming LB ~ 0.88 (Forked),2,2016-10-31 20:13:32.170000000
+1,novice,helloworld_mredmundto,0,2016-10-29 09:53:08.517000000
+6,contributor,Getting started with Python,0,2016-10-27 17:05:25.093000000
+1,contributor,Copy of \u0027Titanic. ~0.79 score\u0027 for learning,0,2016-10-27 07:03:50.573000000
+1,contributor,Random Forest Benchmark (R),1,2016-10-26 21:14:54.820000000
+1,novice,A Journey through Titanic,0,2016-10-25 02:23:36.887000000
+1,contributor,titanic test,0,2016-10-24 20:28:20.857000000
+1,contributor,titanic,0,2016-10-24 07:41:14.767000000
+0,novice,Survival_table resulting all 0.0000,0,2016-10-23 05:49:38.670000000
+3,novice,Train.csv cannot convert string to float,2,2016-10-22 13:19:05.017000000
+2,contributor,Data Leak?,0,2016-10-19 22:07:07.803000000
+0,novice,TitanicSurvival - DataAnalysis \u0026 MachineLearning,5,2016-10-19 08:57:33.727000000
+0,novice,"Imbalanced data (SMOTE, ADASYN)",0,2016-10-17 21:25:08.207000000
+2,novice,test.csv faulty,1,2016-10-17 20:10:38.790000000
+1,novice,test77,1,2016-10-16 04:48:32.997000000
+2,novice,Age: At the core?,0,2016-10-15 15:04:33.723000000
+2,novice,Questions regarding column  ,0,2016-10-14 19:27:09.750000000
+3,novice,How to deal with SettingWithCopyWarning?,0,2016-10-13 16:57:23.350000000
+1,contributor,Notebook6459d4391f,1,2016-10-12 10:43:13.373000000
+0,novice,Leakage or not Leakage?,1,2016-10-11 12:11:49.677000000
+0,novice,Neural Network Prediction,0,2016-10-10 10:20:02.557000000
+1,novice,TitanicPrediction,0,2016-10-10 04:18:53.607000000
+17,contributor,Exploratory Tutorial - Titanic ,65,2016-10-09 18:30:31.040000000
+0,novice,NA in Random Forest Prediction,0,2016-10-09 14:33:26.203000000
+11,contributor,How to evaluate model when test data does not show whether survived or not?!,0,2016-10-09 03:33:54.070000000
+1,novice,A Journey through Titanic,0,2016-10-08 10:25:38.303000000
+0,contributor,new notebook - Guided by a confusion matrix,0,2016-10-07 15:01:19.317000000
+9,contributor,Titanic - Guided by a confusion matrix,7,2016-10-06 16:34:45.700000000
+3,contributor,Titanic,1,2016-10-06 08:42:16.577000000
+1,novice,read csv file,1,2016-10-05 13:24:11.337000000
+0,novice,[BigData] Explore the titanic data with Apache Spark,0,2016-10-02 23:22:11.380000000
+1,contributor,Fork of voi_first_try,0,2016-09-29 12:56:30.270000000
+1,novice,Titanic - First Neural Network Approach,0,2016-09-28 23:16:53.413000000
+1,novice,Why do get a Score of \u00270\u0027 ? ,0,2016-09-28 06:41:40.610000000
+2,novice,Titanic Dataset Question,0,2016-09-27 14:02:12.047000000
+0,novice,Titanic \u0022incomplete\u0022 data samples,0,2016-09-27 13:10:38.210000000
+1,contributor,Exploring Survival on the Titanic,0,2016-09-27 07:55:10.867000000
+1,novice,Deliverable,0,2016-09-26 17:24:51.563000000
+0,novice,Converting dtype Object to Integer in Python,0,2016-09-25 00:32:13.317000000
+1,novice,Exploring Survival on the Titanic,0,2016-09-24 13:01:15.670000000
+0,novice,"Titanic: Majority vote of Ridge, RF and GBM",2,2016-09-20 20:20:00.117000000
+3,novice,"Titanic: Majority vote of Ridge, Random forest and GBM",1,2016-09-20 19:57:46.510000000
+3,novice,Basic Model Using Pandas and sklearn,7,2016-09-20 10:33:46.420000000
+0,novice,Information about dataset origin,0,2016-09-20 08:32:03.687000000
+0,novice,Titanic - Score about 80% (even a little more),0,2016-09-19 22:28:55.880000000
+2,novice,Trying to Kaggle Titanic from Newbie ,4,2016-09-18 15:45:48.540000000
+1,novice,A Journey through Titanic,1,2016-09-18 10:45:50.837000000
+2,novice,Titanic: Random Forest,6,2016-09-18 07:53:28.140000000
+1,novice,Notebookad9bbef977,3,2016-09-17 21:57:56.323000000
+1,novice,Decision_trees_sj,0,2016-09-16 10:06:26.773000000
+10,contributor,Model evaluation result different from Kaggle submission score.,0,2016-09-15 10:30:51.363000000
+2,novice,Titanic data exploration with GLM,2,2016-09-14 18:06:21.110000000
+1,novice,A Journey through Titanic,0,2016-09-14 13:38:50.740000000
+2,novice,Notebook27beee4f8c,0,2016-09-12 14:29:09.613000000
+0,novice,A Journey through Titanic,0,2016-09-12 12:06:38.973000000
+5,contributor,Mastering the Basics on the RMS Titanic!,7,2016-09-11 20:45:13.203000000
+0,novice,Are the given outputs for test data the correct ones?,0,2016-09-10 18:13:33.753000000
+3,contributor,First Testing,0,2016-09-10 15:15:26.573000000
+1,contributor,Decision Tree Visualization \u0026 Submission ,0,2016-09-07 09:59:22.040000000
+3,contributor,oscar wala actor - Leo,11,2016-09-06 11:26:54.970000000
+6,contributor,Testing SVM classifier,1,2016-09-04 11:57:03.523000000
+0,contributor,Ensembling in titanic dataset,0,2016-09-04 08:22:29.327000000
+0,contributor,How to Pick Which Features Pass to the Model?,0,2016-09-02 15:04:09.943000000
+0,novice,Ticket,0,2016-09-02 09:06:49.197000000
+1,novice,First into Kaggle: PCA and Random Forests,0,2016-09-02 04:52:18.367000000
+0,novice,\u0027Names\u0027 vector returning as identical,0,2016-08-31 23:41:48.427000000
+1,contributor,How to get the full score 1.00000,2,2016-08-31 03:30:29.690000000
+5,contributor,oscar wala actor,3,2016-08-30 22:15:39.580000000
+0,contributor,Model Comparison - SKLearn,0,2016-08-29 21:21:55.473000000
+0,novice,downloading the data,0,2016-08-24 14:30:04.327000000
+5,contributor,Lasso Ridge Implementation,6,2016-08-23 12:20:40.550000000
+2,contributor,oscar wala actor,4,2016-08-21 14:05:48.163000000
+4,novice,Decision tree visualization in python,2,2016-08-19 21:19:54.347000000
+0,contributor,Fare - dealing with outliers?,1,2016-08-18 21:34:09.227000000
+0,contributor,Predicting Survival on the Titanic,0,2016-08-18 14:47:07.770000000
+1,contributor,Exploring Survival on the Titanic,0,2016-08-17 14:37:24.777000000
+1,novice,PredictingTitanicSurvivors,0,2016-08-14 21:42:47.923000000
+1,novice,A Journey through Titanic,0,2016-08-14 21:33:11.257000000
+25,novice,How to score 0.8134 in the Titanic Kaggle challenge,31,2016-08-12 16:44:42.607000000
+1,contributor,ML analysis of titanic dataset,1,2016-08-11 16:58:51.943000000
+3,novice,Titanic-Logistic-Regression,8,2016-08-10 03:59:53.903000000
+2,contributor,Titanic survival prediction in Python with XGBoost,3,2016-08-09 17:28:03.877000000
+14,contributor,Tuning Random Forest Parameters,21,2016-08-08 06:26:58.543000000
+2,contributor,Random Forest,0,2016-08-07 14:40:31.217000000
+0,novice,Elastic Net vs. Ridge/Lasso,0,2016-08-03 21:42:51.350000000
+1,novice,Debugging ,1,2016-08-02 02:10:12.810000000
+0,contributor,Tests_Random_Forest,1,2016-07-31 15:27:33.510000000
+0,novice,Comparing randomForest in R to sklearn\u0027s RandomForestClassifier,0,2016-07-29 18:12:15.370000000
+0,novice,Variable Importance,0,2016-07-28 15:06:31.337000000
+1,novice,How to Improve,0,2016-07-26 06:56:56.563000000
+1,contributor,Gaussian naive Bayes,3,2016-07-24 17:48:28.410000000
+2,contributor,testt,0,2016-07-22 21:50:52.443000000
+2,contributor,mxnet,0,2016-07-21 12:33:27.660000000
+2,contributor,Titanic: Machine Learning from Disaster,24,2016-07-20 16:41:09.900000000
+1,contributor,Should I use one-hot encoding for Gender?,0,2016-07-20 05:16:57.423000000
+4,novice,Logistic Regression on Titanic,1,2016-07-19 03:51:52.520000000
+1,novice,Data cleaning,0,2016-07-18 03:21:24.070000000
+2,novice,Rules question - apologies if duplicate,1,2016-07-18 02:56:38.747000000
+13,expert,Titanic passenger survival,27,2016-07-17 21:31:36.587000000
+79,expert,Scikit-Learn ML from Start to Finish,272,2016-07-17 17:26:02.560000000
+1,contributor,RF - Replace missing Value Automatically,2,2016-07-17 03:51:44.857000000
+1,novice,Titanic predictions,0,2016-07-14 21:26:41.330000000
+1,contributor,Titanic test,0,2016-07-14 19:12:36.867000000
+2,novice,Stuck on 0.7655,1,2016-07-14 06:53:09.520000000
+1,novice,What\u0027s wrong with my submission?,0,2016-07-12 10:59:45.290000000
+1,expert,Complete Tutorial - Score 0.80861 With Only 4 Features!,0,2016-07-10 21:47:04.040000000
+1,novice,cannot load data into R,0,2016-07-09 18:29:15.557000000
+5,expert,What does it mean when a Cabin is \u0022F Gxx\u0022?,2,2016-07-05 12:30:22.910000000
+1,contributor,First model on Titanic dataset,5,2016-07-04 18:15:24.913000000
+21,contributor,My First Kaggle Script,24,2016-07-02 14:03:51.197000000
+2,novice,What happened to my entries?,0,2016-07-02 00:12:02.847000000
+5,contributor,12 % lower accuracy when submitted to kaggle,0,2016-07-01 18:10:58.457000000
+0,contributor,Submission made by a tree is better than one made by 1000-tree RF,0,2016-06-30 16:25:18.997000000
+0,contributor,Video: How to use pandas with scikit-learn to create Kaggle submissions,0,2016-06-29 18:50:30.280000000
+0,novice,Why do I get the mistake when I\u0027m trying to use if statement in excel?,0,2016-06-28 10:21:48.117000000
+0,contributor,Titanic R submission,0,2016-06-26 20:45:28.600000000
+1,novice,Random forest sklearn cross_val_score anomaly,0,2016-06-25 21:57:44.527000000
+1,contributor,TitanicEDAinR,0,2016-06-23 23:37:13.697000000
+2,novice,Why don\u0027t Excel interpret the data as columns?,0,2016-06-23 08:30:43.320000000
+1,novice,How have the leaders attained 100% accuracy?,0,2016-06-21 19:41:10.773000000
+3,novice,titanic_survival_preds,0,2016-06-18 21:46:57.283000000
+7,novice,Titanic survival prediction,3,2016-06-16 04:57:45.480000000
+1,novice,Titanic Survivors,2,2016-06-16 00:46:20.593000000
+2,novice,Exploring Survival on the Titanic,6,2016-06-14 21:48:52.510000000
+1,novice,basic-tree-01,0,2016-06-14 15:48:34.130000000
+1,contributor,titanic-submission,0,2016-06-14 01:00:53.667000000
+1,novice,Lucky tickets,4,2016-06-10 09:19:32.757000000
+0,novice,Why I don\u0027t think estimating ages is necessary,3,2016-06-09 16:13:30.637000000
+0,novice,Creating a script,1,2016-06-06 19:27:10.570000000
+0,contributor,feature_importances deems gender umimportant,0,2016-06-04 15:13:28.207000000
+0,novice,Cross Validation in R for Logistic Regression and Random Forest models,0,2016-06-02 17:42:36.203000000
+0,novice,Writeup on 2 attempts getting up to 78% accuracy,0,2016-06-02 16:15:18.953000000
+0,novice,Blank Age cells,0,2016-06-02 15:20:19.470000000
+0,novice,Linear Regression in Excel,0,2016-05-29 15:57:15.463000000
+0,contributor,Time Series Analysis,0,2016-05-29 08:04:15.983000000
+0,novice,Python 3 Tutorials,0,2016-05-26 05:07:53.830000000
+0,novice,Getting Started with Python II: looking at age column from data array,0,2016-05-26 04:29:30.520000000
+1,novice,Random Forest Benchmark (R),1,2016-05-25 12:44:45.950000000
+9,contributor,Lasso Ridge Implementation,23,2016-05-24 17:50:05.380000000
+0,novice,"Retrieving specific data in an array.  [0::,4] vs [0:,4]",0,2016-05-24 03:31:33.517000000
+3,novice,Missing age data,0,2016-05-22 14:47:37.183000000
+0,novice,feature engineering,0,2016-05-22 11:11:38.393000000
+11,novice,Study of Tree and Forest algorithms,33,2016-05-15 21:23:57.833000000
+1,novice,choooo,5,2016-05-14 19:59:53.613000000
+0,novice,My notes on Using Logistic Regression with Variations of Data Cleaning (A link to a github respository included),0,2016-05-12 23:34:35.767000000
+2,novice,Is it cheating to combine train and test to engineer features,0,2016-05-02 10:58:23.167000000
+4,novice,Titanic Journal,10,2016-05-01 17:19:43.503000000
+4,novice,Error when creating ggplot,0,2016-04-29 17:21:06.887000000
+1,novice,Estimate Age by logistic regression,0,2016-04-29 14:49:17.327000000
+3,contributor,0.88517 in LB,0,2016-04-29 01:07:56.287000000
+0,novice,How to start,0,2016-04-24 11:35:35.723000000
+3,contributor,preliminary exploration,13,2016-04-22 06:29:21.037000000
+0,novice,"feature engineering, how to?",0,2016-04-20 19:06:46.683000000
+1,novice,Titanic Survival Logistic Regression,0,2016-04-19 21:47:07.017000000
+1,novice,demo-test1,0,2016-04-16 13:23:35.953000000
+9,contributor,Beginner\u0027s attempt: LB 0.8134,4,2016-04-14 21:09:45.347000000
+6,contributor,"RandomForest, Leaderboard 0.8134",16,2016-04-14 21:00:25.233000000
+1,novice,julia,1,2016-04-13 15:08:14.133000000
+0,contributor,Stacking classifiers while using SelectKBest,0,2016-04-11 23:51:06.083000000
+0,novice,pandas data munging issue,0,2016-04-09 10:18:10.607000000
+0,novice,Submissions,0,2016-04-05 20:47:25.587000000
+3,staff,Beat the benchmark with one cool trick,8,2016-04-05 02:26:49.470000000
+0,novice,Splitting by gender,0,2016-03-29 13:02:18.287000000
+1,novice,Exploring Survival on the Titanic,3,2016-03-26 17:50:39.947000000
+6,novice,"Probit, Logit or RF? ",9,2016-03-24 04:48:49.890000000
+0,novice,How to estimate randomness implicit in any prediction problem,0,2016-03-18 10:00:35.023000000
+2,novice,Difference in Accuracy score pre and post upload,0,2016-03-16 17:33:39.340000000
+1,novice,DecisionTree,1,2016-03-16 11:30:36.010000000
+0,contributor,Optimizied Titanic Machine Learning Model,0,2016-03-16 10:15:19.113000000
+0,novice,Titanic_deeplearning_ofg.R,0,2016-03-15 11:32:50.943000000
+0,contributor,Quadratic features selection - Logistic Regression,1,2016-03-14 10:16:49.887000000
+1,novice,Titanic Data Mining in one click! Create Excel formula with NeoNeuro!,0,2016-03-13 11:57:48.947000000
+1,contributor,How to read in train.csv with Python csv reader?,0,2016-03-12 23:39:59.657000000
+1,contributor,Women \u0026 Children Feature Variable,0,2016-03-08 14:28:15.967000000
+0,novice,Will I upload my solution here in forum on kaggle ? ,0,2016-03-07 17:52:47.247000000
+28,novice,Looking for team members,0,2016-03-07 12:13:46.167000000
+833,staff,Exploring Survival on the Titanic,2416,2016-03-06 22:10:44.693000000
+2,contributor,"How to improve test accuracy score with Random forest, Feature Selection?",1,2016-02-17 07:22:22.780000000
+3,novice,Wanting to learn regression formulas!  Only know linear!  Need help!,0,2016-02-17 05:31:11.447000000
+1,contributor,Combining train data and test data violates the rules?,0,2016-02-14 09:20:29.647000000
+35,master,Genetic Programming LB ~ 0.88,44,2016-02-13 16:56:41.163000000
+0,novice,stopiteration error,0,2016-02-11 16:42:41.947000000
+15,novice,Random Forest Survivors,5,2016-02-10 21:56:43.980000000
+2,novice,Decision Tree Survivors,0,2016-02-10 21:44:37.720000000
+2,novice,Aliens and the Titantic,0,2016-02-09 05:34:21.833000000
+1,contributor,What\u0027s considered a \u0022good\u0022 score?,3,2016-02-05 22:43:35.930000000
+0,novice,tantantan v1.0,0,2016-02-04 19:40:56.823000000
+3,contributor,Titanic competition using Xgboost,10,2016-01-31 22:14:15.620000000
+0,novice,Predicting age,0,2016-01-30 17:31:41.990000000
+2,contributor,tensorflow,0,2016-01-29 14:47:38.063000000
+1,novice,Titanic,0,2016-01-18 12:30:47.360000000
+2,contributor,interactive widgets in a notebook?,0,2016-01-16 13:59:16.200000000
+0,novice,Can\u0027t upload train CSV  \u0022IOERROR: [Errno 2],0,2016-01-15 21:56:06.037000000
+0,novice,Aspiring Data Scientist looking for help,0,2016-01-13 06:25:27.527000000
+4,novice,Score of 0.0000???,1,2016-01-13 01:17:50.370000000
+0,novice,Test set vs training set,0,2016-01-09 08:47:08.297000000
+1,contributor,Sample SVM model with X-Validation,4,2016-01-08 03:53:48.173000000
+0,novice,first attempt - all survived in the test data !??,0,2016-01-07 16:47:14.817000000
+4,novice,Confusion Matrix,0,2016-01-07 15:41:38.057000000
+2,contributor,Getting public score of 0,0,2016-01-04 07:21:48.680000000
+2,novice,fancyRpartPlot diagram meaning,0,2015-12-16 01:26:51.487000000
+1,novice,Challenge and Interesting point: GLM to model Titanic data using Poission rather Binomial,0,2015-12-14 12:41:15.857000000
+1,novice,test_fork_001,0,2015-12-02 09:07:01.720000000
+2,novice,randomForest + cforest method,5,2015-11-29 19:40:54.380000000
+1,novice,Basic Machine Learning / Feature Engineering question,0,2015-11-27 16:08:13.773000000
+3,contributor,Deep Learning with TensorFlow on Titanic data.,6,2015-11-27 07:20:42.897000000
+1,novice,a compile error:ValueError: ndarray is not Fortran contiguous,0,2015-11-27 02:39:16.270000000
+0,expert,General questiones of hot fixing dummy variables,0,2015-11-26 08:30:47.537000000
+3,novice,Titanic Simple Logit with Interaction,3,2015-11-26 00:56:57.300000000
+376,expert,A Journey through Titanic,963,2015-11-12 22:14:55.670000000
+2,novice,Trouble with Python,0,2015-11-12 20:59:39.567000000
+1,novice,First Task Errors Out ,0,2015-11-11 21:15:45.693000000
+21,novice,Large families not good for Survival,69,2015-11-11 15:14:10.890000000
+0,novice,Questions on Submitting In-Class Work for Competition,0,2015-11-11 09:15:42.110000000
+0,novice,titanic - R package to quickly load data sets,2,2015-11-10 19:17:37.700000000
+5,master,LB ~ .89 Using GP with c++ ,0,2015-11-04 17:27:24.570000000
+0,novice,Installation of pandas,0,2015-11-03 18:25:38.880000000
+1,contributor,cannot load my result csv file,0,2015-10-31 21:09:28.257000000
+1,novice,Overwrote variable values for the whole file,0,2015-10-28 12:41:49.260000000
+3,novice,Looking for someone to team up with,0,2015-10-27 16:21:03.177000000
+9,novice,kaggle-titanic-001,39,2015-10-27 14:21:11.550000000
+0,novice,How do you test your model and optimize parameters?,1,2015-10-20 22:20:44.873000000
+4,novice,R DataCamp Tutorial: Random Forest,0,2015-10-18 14:48:08.817000000
+14,novice,Any one interested to team with this competition?,0,2015-10-08 06:49:44.207000000
+4,contributor,Validation and submission scores,0,2015-10-05 12:34:49.260000000
+0,novice,mahak,1,2015-10-02 10:44:08.120000000
+9,expert,Python starter for IDE recommandation,0,2015-09-30 02:35:39.497000000
+2,novice,Too many indices for Array error,0,2015-09-29 00:44:07.497000000
+0,contributor,Is there a need to upload the script?,0,2015-09-25 07:10:31.473000000
+3,expert,PolyFeatures + XGBoost  (Python),3,2015-09-21 16:15:25.850000000
+1,novice,why my titanic\u0027s result became \u0027None\u0027?help~,0,2015-09-21 06:54:06.097000000
+1,contributor,Trial,0,2015-09-16 00:43:55.230000000
+0,contributor,Bug Using Python Regular Expression Findall on Anaconda 2.7.3?,0,2015-09-15 15:26:48.630000000
+0,novice,What is the function of \u0022re-paste\u0022 ?,0,2015-09-13 00:00:18.807000000
+1,novice,Attribute Error,0,2015-08-26 20:13:03.360000000
+1,novice,How to implement the rule like this?,0,2015-08-18 06:28:48.077000000
+10,novice,My Titanic Survior in Spark/PySpark Diary,1,2015-08-12 21:42:11.410000000
+41,novice,Looking for a team,0,2015-08-10 16:43:10.897000000
+2,contributor,4D visualization in matplotlib,4,2015-07-31 17:23:54.033000000
+1,novice,Submission Error,0,2015-07-31 16:47:57.223000000
+0,novice,First Kaggle Submission,0,2015-07-29 23:57:48.770000000
+0,contributor,Model Predicts Negative Survival,2,2015-07-28 19:43:06.897000000
+1,contributor,Is feature scaling always good? and need help for improvements!,0,2015-07-26 18:55:51.507000000
+2,novice,Trying to solve with keras nn,0,2015-07-25 14:22:27.260000000
+4,novice,How to get last place,13,2015-07-23 22:07:46.957000000
+1,novice,RandomForest,0,2015-07-20 08:11:42.640000000
+1,novice,Python Seaborn PairPlot Example,0,2015-07-18 08:37:13.160000000
+1,novice,Visualisation of NN model perf. (Rmd),1,2015-07-15 20:27:54.153000000
+5,contributor,Random forrest vs logistics regression,0,2015-07-15 20:12:42.740000000
+0,novice,Using linear regression for missing ages. ,0,2015-07-15 06:39:28.737000000
+2,novice,When to drop categorical feature?,0,2015-07-14 08:27:13.267000000
+30,novice,Decision Tree Visualization \u0026 Submission,127,2015-07-14 06:32:40.587000000
+0,master,A new python tutorial for this competition,1,2015-07-14 00:11:50.007000000
+3,novice,Visualisation of NN model performance,3,2015-07-13 20:14:54.130000000
+2,novice,cross validation doesn\u0027t work?,0,2015-07-13 13:55:16.780000000
+2,novice,Titanic RandomForrest v1.2,0,2015-07-11 00:24:13.403000000
+1,novice,Random Forest Benchmark (R),0,2015-07-10 21:39:32.927000000
+1,contributor,Random Foreset Algorithm Implementation,0,2015-07-04 20:03:00.770000000
+2,novice,"Dang Ky lap Mang FPT Bien Hoa, Dong nai",0,2015-07-02 10:22:50.660000000
+0,novice,"Dang Ky Lap Mang FPT Phu My Hung, Tp Ho Chi Minh",0,2015-07-02 10:17:53.067000000
+1,contributor,Titanic RandomForrest v1.2,10,2015-06-30 11:49:32.153000000
+2,contributor,randomForest method v1.0,1,2015-06-30 11:16:41.967000000
+0,novice,Ensemble methods perform worse,4,2015-06-29 07:35:39.803000000
+44,novice,My \u0022Titanic survivor in R\u0022 Diary,2,2015-06-27 14:59:28.683000000
+2,novice,Incorrect data?,3,2015-06-26 18:54:32.717000000
+1,novice,RandomForest Benchmark,2,2015-06-25 17:18:33.903000000
+3,novice,Pylab not working in iPython?,0,2015-06-24 19:36:26.243000000
+2,contributor,R Help needed: unable to convert few titles to common title,0,2015-06-24 01:53:27.703000000
+2,contributor,Simple RandomForest,2,2015-06-20 14:03:47.643000000
+0,novice,what is the winning approach so far in python?,0,2015-06-15 07:43:11.627000000
+1,novice,Cabin Position may affect Survival ?,9,2015-06-15 03:52:25.250000000
+3,novice,Benchmarking Random Forests,6,2015-06-13 15:59:11.360000000
+2,expert,My Random Forest,1,2015-06-10 11:28:06.640000000
+3,novice,Error reading csv in OSX Yosemite with R,0,2015-06-10 03:29:30.857000000
+0,novice,"Reading Kaggle Data into R H2O Package, continuous errors",0,2015-06-08 02:29:56.900000000
+4,staff,Tutorial 1: Gender Based Model (0.76555),9,2015-06-06 00:00:21.047000000
+0,contributor,Why public score fall out 95% quantile of accuracy estimations ?,0,2015-06-05 22:51:22.387000000
+1,contributor,resample,2,2015-06-05 22:29:02.923000000
+4,contributor,For those who achieved 1.00000,0,2015-06-03 18:08:33.787000000
+6,novice,Predict function doesn\u0027t predict for all rows?,0,2015-06-01 20:11:15.577000000
+1,novice,Importing data into H2O from R,0,2015-05-31 11:35:13.213000000
+0,novice,How to do k-fold cross validation on random forest?,0,2015-05-30 17:05:30.463000000
+1,novice,No entries !!!,-1,2015-05-30 13:30:20.643000000
+0,novice,filling in for the null values!,0,2015-05-30 11:57:06.393000000
+3,novice,Using R: how can I use Random Forests to identify important variables?,1,2015-05-30 04:46:08.323000000
+4,staff,Testing comments,0,2015-05-29 15:23:29.507000000
+1,staff,Playing around - hidden,0,2015-05-29 14:18:11.180000000
+1,novice,why I am not in the leaderboard?,0,2015-05-28 09:55:08.790000000
+4,novice,Interactive R Tutorial: Machine Learning Machine Learning for the Titanic Competition,0,2015-05-28 08:42:55.887000000
+0,contributor,Number of trees and the splitting criterion - Relationship,0,2015-05-20 11:23:21.647000000
+1,staff,Julia Default Script,0,2015-05-18 21:54:29.817000000
+1,grandmaster,recent photo of Titanic,2,2015-05-11 09:27:19.140000000
+2,novice,How to improve the model?,0,2015-05-05 15:52:15.270000000
+0,contributor,Filling NA\u0027s with mode,0,2015-05-04 09:48:52.743000000
+2,novice,How to bin by paid fare - Excel tutorial,0,2015-05-03 21:44:41.403000000
+5,novice,Cleaning up test data,0,2015-05-02 20:03:43.997000000
+3,novice,Titanic as a neural network problem,0,2015-04-24 07:05:55.130000000
+3,contributor,Titanic: scored 0.00 after trying logistic regression,0,2015-04-22 17:26:47.793000000
+1,novice,caret glm with cross validation confusion,1,2015-04-21 23:14:33.450000000
+7,staff,Lucky names,32,2015-04-18 00:14:28.837000000
+1,novice,How to get false positives/negatives and true positives/negatives.,0,2015-04-17 04:11:39.733000000
+1,expert,Traveling alone or with family,12,2015-04-15 19:26:58.060000000
+9,novice,XGBoost example (Python),51,2015-04-15 18:31:28.753000000
+11,staff,Introducing Kaggle Scripts,55,2015-04-15 02:48:15.383000000
+1,staff,Installed Python Packages,3,2015-04-15 02:47:03.970000000
+1,staff,Installed R Packages,3,2015-04-15 02:43:56.510000000
+6,staff,Python Seaborn PairPlot Example,16,2015-04-15 02:30:22.800000000
+0,novice,Using Amazon Machine Learning for Kaggle,2,2015-04-14 03:20:01.073000000
+17,staff,XGBoost example (Python),86,2015-04-13 21:25:53.580000000
+3,staff,Exploratory Analysis in R,10,2015-04-13 20:49:20.250000000
+54,staff,Random Forest Benchmark (R),173,2015-04-13 19:33:19.047000000
+0,novice,[Python] Not Multidimensional array ?,0,2015-04-13 15:15:12.263000000
+14,novice,Higher score!!!!!!!!!!!,0,2015-04-09 13:43:16.300000000
+2,contributor,New machine learning video tutorials for beginners,6,2015-04-08 22:50:07.577000000
+0,novice,Need help - Python,0,2015-04-08 11:07:54.487000000
+0,contributor,test data shows 0 instances when tested upon train data?,0,2015-04-07 01:41:02.507000000
+1,contributor,Best expected result using KNN?,0,2015-04-06 20:00:00.850000000
+1,contributor,Feature Engineering,0,2015-04-04 14:57:13.163000000
+33,novice,Looking for a team/Joining a team,0,2015-03-31 17:38:40.347000000
+1,contributor,stacking models (baselearners--\u003emetalearn),3,2015-03-30 05:46:22.267000000
+0,novice,Error 2,0,2015-03-26 13:50:05.270000000
+4,expert,Python tutorial errata?,0,2015-03-26 08:56:11.660000000
+6,novice,Understanding glm() model -  Generalized linear model,0,2015-03-25 05:08:58.573000000
+0,novice,How to bookmark or follow a competition?,0,2015-03-24 03:36:12.723000000
+6,novice,test.csv and leaderboard score \u00221.000\u0022,3,2015-03-14 07:14:45.383000000
+1,novice,Problem with survival_table,0,2015-03-12 12:32:27.937000000
+1,novice,Can Embarked be used as variable taking 3 values?,0,2015-03-07 08:44:43.280000000
+0,novice,Evaluation Exception: is not a valid value for Double,0,2015-03-07 03:39:38.357000000
+1,contributor,Can I use info from the test set in training?,0,2015-03-06 14:07:37.507000000
+3,expert,Cabin map,3,2015-02-26 15:58:40.900000000
+13,novice,[Python] Issue reading in train.csv,0,2015-02-26 15:05:19.933000000
+3,novice,issues when running output = forest.predict(test_data),0,2015-02-12 23:10:59.567000000
+4,novice,Survival Table an example of Naive Bayes ??,1,2015-02-11 09:06:03.533000000
+0,novice,,0,2015-02-05 17:07:48.027000000
+0,novice,Record 62 had 1 column but expected 2,4,2015-01-25 02:12:01.440000000
+1,novice,Easy Python Code to Achieve 77% Accuracy Rate,1,2015-01-16 15:34:00.767000000
+0,novice,getting weird error in myfirstforest.py,1,2015-01-16 13:24:50.373000000
+0,novice,Getting a strange ValueError,0,2015-01-06 17:26:00.193000000
+6,contributor,What does overfitting mean?,0,2014-12-31 09:10:05.173000000
+6,novice,What is the meaning of the training set variables,0,2014-12-25 08:54:36.470000000
+3,novice,Inputing data on test set,1,2014-12-17 15:20:51.570000000
+0,novice,"R problem: Error in newdata[, object$scaled, drop = FALSE] :    (subscript) logical subscript too long",1,2014-12-15 08:40:45.240000000
+1,novice,why random forest hit  .60 ?,0,2014-12-14 05:56:08.493000000
+2,novice,why submission score is so diff from my cv,0,2014-12-13 06:29:57.200000000
+6,novice,Do ticket numbers mean anything?,3,2014-12-03 23:18:40.917000000
+4,novice,"Child died, Wife died: constructing a new variable",2,2014-12-01 20:26:41.180000000
+1,novice,What is the purpose of gendermodel and genderclassmodel?,0,2014-12-01 16:39:21.800000000
+1,master,Data snooping,1,2014-11-24 13:47:47.847000000
+2,novice,My code; please provide improvements,2,2014-11-24 03:23:14.343000000
+2,novice,Python - Anaconda,1,2014-11-22 12:03:51.407000000
+2,novice,understanding python ,0,2014-11-20 22:15:01.720000000
+0,novice,Looking for Teammate,0,2014-11-20 05:41:09.637000000
+4,novice,Random Forest Output issue,0,2014-11-17 03:09:19.767000000
+0,contributor,submission Issue,0,2014-11-14 09:22:34.837000000
+0,novice,Null Submission result !,0,2014-11-13 11:15:13.713000000
+1,novice,Non-technical question re this competition,0,2014-11-07 01:40:45.790000000
+2,novice,How to Learn from Non numerical data.,0,2014-10-31 19:59:13.183000000
+2,novice,RuntimeWarning Errors when running \u0022genderclassmodel.py\u0022,0,2014-10-18 19:07:07.350000000
+1,novice,gendermodel./genderclassmodel.csv,0,2014-10-17 01:01:10.770000000
+12,novice,SVM: Worthwhile or Pointless?,1,2014-10-11 23:33:46.803000000
+1,novice,Passengers Paid No Fare,2,2014-10-10 09:47:44.480000000
+1,contributor,Getting Started with MATLAB,3,2014-10-10 05:12:28.880000000
+8,novice,\u0022Embarked\u0022 has 4 factor levels in the training set.,0,2014-10-07 18:25:09.543000000
+3,novice,strange error,0,2014-10-06 20:13:09.183000000
+0,contributor,Score not changing at all... What am I missing?,1,2014-10-02 16:58:42.927000000
+1,novice,Getting started with Python3 in Windows,2,2014-10-02 11:52:37.207000000
+0,novice,Plenty of Errors on Curt Wehrley approach using R,1,2014-10-01 09:32:43.787000000
+0,novice,Statskom - SAS tutorial#2 PROC FREQ,0,2014-09-30 10:12:38.887000000
+2,novice,Statskom - SAS tutorials,4,2014-09-24 20:42:15.537000000
+3,novice,Problem with assignement of observations to variables In R,0,2014-09-24 07:33:13.643000000
+1,novice,Problem with assignement of observations to variables In R,0,2014-09-24 07:30:02.987000000
+5,contributor,Best way to include categorial data in the training set?,1,2014-09-24 05:19:33.570000000
+1,contributor,Where does test_data come from in the python tutorial?,0,2014-09-23 05:25:54.933000000
+6,contributor,Cannot import pandas?,1,2014-09-21 07:06:53.660000000
+0,contributor,Sum of Survived and Count of Survived,0,2014-09-19 20:42:25.743000000
+15,novice,Anyone hit .80 with scikit-learn?,2,2014-09-16 00:32:13.627000000
+1,novice,Unexpected column error,0,2014-09-15 13:24:02.450000000
+1,novice,Using SPSS,0,2014-09-10 22:28:32.573000000
+0,novice,"Conditional Forest - Calculate Overfitting, OOB Error",0,2014-09-04 18:25:32.440000000
+6,novice,Random Forest - How to get accuracy beyond 80%,0,2014-09-01 17:46:40.273000000
+0,novice,[Python] How to keep the same dummy variables in test dataset,0,2014-09-01 11:42:24.700000000
+0,master,Decision Trees,6,2014-08-31 04:00:27.587000000
+0,contributor,Getting 0.799 with Random Forests and Gradient Boosting,2,2014-08-29 20:49:02.220000000
+14,novice,Beginners tutorial for Titanic dataset,8,2014-08-29 17:15:56.980000000
+9,contributor,Pandas and Scikit-learn introduction via Kaggle Titanic competition,10,2014-08-27 10:31:12.053000000
+24,contributor,How to get a 1.000,5,2014-08-23 02:44:27.247000000
+8,novice,Random Forest - Understanding k fold cross validation,1,2014-08-20 21:23:47.677000000
+0,novice,Scikit-learn cross validation doesn\u0027t seem to be helping,0,2014-08-18 20:41:49.443000000
+2,novice,Evaluation exception: is not a valid value for double,0,2014-08-18 11:33:21.590000000
+2,novice,Issue with numpy,0,2014-08-15 16:02:55.647000000
+3,novice,Random Forest - How to handle overfitting,0,2014-08-15 04:37:02.473000000
+3,contributor,Cross Validation Score not Representative of Submission Score,2,2014-08-14 18:00:48.310000000
+0,novice,Octave ,0,2014-08-13 16:54:47.547000000
+0,novice,About pandas,0,2014-08-12 03:49:24.823000000
+3,novice,Test File - Each Submission produces the same score,0,2014-08-08 15:27:59.290000000
+2,contributor,Online Python environment for this competition,0,2014-08-06 19:15:37.693000000
+2,novice,Statistical Question about Interactions \u0026 Machine Learning,0,2014-08-02 13:46:28.403000000
+2,novice,Levels of Embarked wrong in Python?,0,2014-08-01 23:57:44.910000000
+1,contributor,Converting the data files to European format,0,2014-08-01 11:51:00.840000000
+4,novice,Prediction base on Passenger Sex +  Where they embarked will have ,0,2014-08-01 06:40:50.257000000
+2,novice,Excel Tutorial: No difference between Male only and Male+FemaleClass3\u003e20,0,2014-07-28 08:08:59.347000000
+4,novice,Beating BigML: delaying the robot apocalypse.,0,2014-07-23 04:12:48.807000000
+0,novice,Error message in caret package in R,1,2014-07-16 20:13:41.697000000
+0,novice,problem loading csv file with python ,0,2014-07-16 15:58:34.097000000
+2,novice,4 bins,0,2014-07-10 07:28:39.460000000
+1,novice,About overfitting the test set and winning competitions,0,2014-07-09 16:24:30.597000000
+2,contributor,R Caret Package (train): Tuning Parameters in rpart \u0026 rpart2 ,0,2014-07-08 22:39:22.100000000
+0,novice,SVM confusion matrix,0,2014-07-03 19:29:11.533000000
+2,novice,Why is it better to ignore missing values?,0,2014-07-02 18:09:18.943000000
+4,novice,indication of bad feature?,1,2014-06-27 06:09:31.810000000
+3,novice,Do individuals with the same ticket number come from the same family?,0,2014-06-26 12:59:47.157000000
+3,novice,Sibsp and Parch variables,0,2014-06-25 16:46:15.430000000
+8,novice,What is the difference between the  gendermodel and genderclassmodel datasets?,0,2014-06-18 09:59:44.130000000
+2,contributor,Model Methods \u0026 Tuning Parameters,0,2014-06-10 21:42:39.407000000
+1,contributor,What is the name enclosed in parenthesis in Name column?,2,2014-06-05 22:02:10.433000000
+1,contributor,Test Set score 1.0,0,2014-05-25 13:49:06.557000000
+0,contributor,Test Set score 1.0,0,2014-05-25 13:49:00.927000000
+0,contributor,Test Set score 1.0,0,2014-05-25 13:49:00.147000000
+0,contributor,Java and R approach (with code). Score: 0.804,0,2014-05-23 17:12:22.627000000
+2,novice,Newbie R Questions - Horsepower,0,2014-05-23 10:52:58.833000000
+1,novice,Purpose of Project,0,2014-05-20 16:55:28.503000000
+3,novice,Experimental Visualization as Fish,0,2014-05-07 20:23:17.233000000
+1,novice,How is the score computed?,0,2014-05-04 09:31:35.160000000
+0,contributor,High accuracy in predicting death but poor in predicting survival,0,2014-04-30 09:56:37.693000000
+16,novice,Revised (and added) Tutorials,14,2014-04-15 00:15:06.893000000
+2,novice,File Location Problem: genderbasedmodel.csv,1,2014-04-11 22:14:30.777000000
+8,novice,Unexpected poor  results  with Logistic Regression,0,2014-04-05 10:28:17.143000000
+8,expert,KNIME results,0,2014-03-28 19:11:29.030000000
+0,contributor,"An approach using decision trees (R, party) and SVMs (R, kernlab)",1,2014-03-28 17:37:57.817000000
+2,novice,Test data survival result?,0,2014-03-26 11:49:06.630000000
+2,novice,Error in \u0022Getting Started with Python\u0022 Titanic tutorial,0,2014-03-25 21:28:29.537000000
+4,novice,RapidMiner Studio and data preparation,0,2014-03-06 16:46:11.207000000
+0,novice,family trees of Titanic passengers-- data problem,1,2014-03-03 18:29:52.960000000
+0,novice,Gender Based Section of Python Tutorial Troubleshooting Guide ,0,2014-03-03 05:59:53.280000000
+2,novice,Syntax error in Python Tutorial?,0,2014-03-02 21:03:24.647000000
+0,novice,Index Issues,0,2014-02-27 22:18:06.290000000
+7,novice,Newbie\u0027s doubt regarding fancyRpartPlot,0,2014-02-22 13:49:53.893000000
+1,novice,myfirstforest.py index error,0,2014-02-15 12:10:43.033000000
+0,novice,Feel like I\u0027m missing something basic,0,2014-02-11 17:25:58.357000000
+1,novice,"list indices must be integers, not tuple",0,2014-02-10 03:45:05.357000000
+0,novice,up the data problems,0,2014-02-08 23:16:31.450000000
+0,master,\u0022Lack of fit\u0022 what does it mean?,0,2014-02-08 00:03:29.803000000
+0,contributor,Use of Datasets for book,0,2014-02-07 02:31:45.030000000
+5,contributor,Issues with Submitting,0,2014-01-30 00:08:12.457000000
+1,novice,Weka,2,2014-01-27 02:47:58.213000000
+3,novice,"Self-checking a score, or assessing the accuracy of a model",0,2014-01-24 21:55:43.483000000
+2,contributor,Quick Walkthrough for Complete Beginners in R! (.79426 score),3,2014-01-21 00:13:11.607000000
+2,novice,Upper limits,0,2014-01-20 09:39:31.807000000
+48,expert, Titanic: Getting Started With R - Full Guide to 0.81340,44,2014-01-13 00:27:46.100000000
+1,contributor,Are the French more beautiful of just pushy,0,2014-01-11 10:11:44.943000000
+9,novice,How to Install scikit-learn on Mac OS,0,2014-01-10 14:10:02.780000000
+1,novice,Unable to load the train set in R,0,2014-01-04 05:32:59.507000000
+4,novice,Calculating pricegroup,1,2014-01-03 00:41:35.117000000
+2,contributor,Python Code to Score 0.79426,1,2013-12-29 05:20:59.763000000
+4,novice,Sharing experiences about data munging and classification steps with Python,2,2013-12-27 20:09:27.087000000
+2,contributor,Blog post on how to get past 80% accuracy,1,2013-12-22 03:31:58.853000000
+6,novice,Titanic Disaster - Logit Equation using SAS,3,2013-12-16 08:06:44.237000000
+1,contributor,Effect of mtry and trainingset size in Random Forest,2,2013-12-10 10:43:34.203000000
+2,contributor,second excel submission,0,2013-12-09 17:28:42.857000000
+2,expert,Illustrative Simple R Code To Achieve 76%,0,2013-12-07 23:58:22.777000000
+9,novice,Submission Error -- \u0022genderbasedmodel.csv\u0022  --am new ,0,2013-12-05 20:10:30.270000000
+6,novice,Linear relation between log price and survival rate,1,2013-11-23 13:54:27.930000000
+3,novice,Proportion of women who survived is nan,0,2013-11-17 20:33:10.527000000
+1,contributor,random forest using matlab ,1,2013-11-11 23:07:14.480000000
+3,novice,Why won\u0027t this Python code run?,0,2013-11-10 05:02:08.300000000
+4,expert,Getting Started With Gender Model in R,0,2013-11-06 21:47:31.517000000
+1,expert,Getting Started With Titanic \u0026 R,0,2013-10-30 01:46:13.867000000
+4,novice,genderclassmodel-pandas.py,32,2013-10-27 22:17:16.140000000
+0,novice,How to deal with the RAM problem with R,0,2013-10-25 08:54:58.763000000
+2,novice,Pivot in Excel,0,2013-10-22 19:35:14.353000000
+0,novice,Narrative based Features,0,2013-10-17 02:26:29.007000000
+1,novice,Error on loading Excel file,0,2013-10-09 20:43:42.080000000
+2,novice,Issue when submitting Excel file - column errors?,0,2013-10-08 13:52:54.497000000
+5,expert,submission error,0,2013-09-29 19:40:06.813000000
+2,expert,Problems with data format in excel,0,2013-09-29 15:48:58.020000000
+0,contributor,Great books for aspiring data scientist,0,2013-09-21 04:04:37.007000000
+4,contributor,Extension of Competition Deadline,4,2013-09-15 01:18:37.797000000
+3,novice,Basic machine learning course at edX form Caltech,1,2013-09-14 11:57:43.743000000
+4,novice,Blog post with full R code illustrating a 0.79426 entry,13,2013-09-12 19:52:49.420000000
+5,novice,0.76555 w/ RapidMiner random forest,1,2013-09-07 21:13:57.297000000
+2,novice,Issue w/ submission for Titanic (newbie),0,2013-09-07 01:24:45.543000000
+6,novice,Full guide and python code to get 0.79903,14,2013-09-05 12:22:26.717000000
+2,novice,Joining with other data sets,0,2013-08-29 04:43:43.977000000
+6,novice,A First Timer\u0027s Journey to a 0.78947,11,2013-08-25 23:18:07.340000000
+0,novice,Tool Comparison Using Titanic Data,0,2013-08-20 13:00:12.890000000
+7,novice,Submission Error,0,2013-08-13 11:56:09.620000000
+41,contributor,Handling categorical data with sklearn.,7,2013-08-12 05:47:26.467000000
+4,contributor,Python 3.3 error,0,2013-08-12 01:38:38.493000000
+0,contributor,AdaBoost Implementation in R,0,2013-08-09 19:51:32.113000000
+3,contributor,Submission via Excel CSV broken?,0,2013-08-05 21:33:09.277000000
+1,novice,Encoding Categorical Data,0,2013-08-01 15:41:33.943000000
+13,contributor,R code to score 0.79426,2,2013-07-29 23:03:36.713000000
+2,novice,Scoring Anomaly,0,2013-07-29 20:19:20.083000000
+2,novice,Unable to create pivot tables in LibreOffice,0,2013-07-28 15:36:39.357000000
+2,novice,Format of solving,0,2013-07-22 12:44:40.967000000
+1,novice,NumPy Coding Help,0,2013-07-21 23:53:30.637000000
+2,novice,Stuck at 0.78469 with randomForest. Any tips? (R code included),1,2013-07-18 18:51:13.117000000
+43,contributor,IPython Notebook Tutorial for Titanic: Machine Learning from Disaster,66,2013-07-15 14:21:17.923000000
+2,contributor,Is this still a \u0022Knowledge\u0022 competition?,1,2013-07-15 00:54:52.897000000
+4,novice,Another (overcomplicated?) implementation in R,1,2013-07-10 18:17:21.590000000
+2,novice,"Can we examine our trees? (RandomForestClassifier, Python 2.7)",0,2013-07-07 15:53:48.910000000
+3,novice,"What is train, test, gendermodel and rest ??",0,2013-07-07 13:21:06.380000000
+1,contributor,Emailing others users / tracking new competitions,0,2013-07-05 10:25:57.310000000
+6,contributor,Teaming up,0,2013-07-04 10:12:05.143000000
+1,novice,Followed excel tutorial but getting errors on submission,0,2013-07-03 14:12:42.193000000
+5,novice,Can\u0027t get passed this Python error,0,2013-07-03 05:54:06.523000000
+0,novice,new webpage formatting issue for code,0,2013-07-01 06:27:18.903000000
+14,staff,New Submission Parser,0,2013-06-28 13:45:24.153000000
+0,novice,Gender and Gender Class Model using Python 3.3.2 - Code,0,2013-06-28 11:00:34.543000000
+35,novice,Titanic: Problem with \u0022Getting Started with Python\u0022 ,2,2013-06-27 10:07:40.973000000
+1,novice,What am I supposed to do?,0,2013-06-26 03:41:34.997000000
+1,novice,How to tune random forests ?,0,2013-06-24 16:24:36.323000000
+18,expert,What Accuracy Should I Be Aiming For?,13,2013-06-20 12:00:52.323000000
+2,novice,A different prediction for every run with the same data set,0,2013-06-18 08:45:13.823000000
+2,novice,We\u0027re submitting a result set.  Does it matter how we get there?,0,2013-06-18 06:18:25.790000000
+1,novice,Reverse everything ...,0,2013-06-18 03:27:25.510000000
+0,novice,Error running my python program,0,2013-06-18 01:38:56.887000000
+0,novice,Useful blog post on Random forests,1,2013-06-17 16:39:47.430000000
+2,novice,gradient boosting in R,0,2013-06-16 16:15:27.457000000
+0,novice,Question about scoring,0,2013-06-16 09:05:42.627000000
+1,novice,how to create a kaggle-like grader?,0,2013-06-14 15:58:57.807000000
+7,novice,New to Kaggle and Data Science,0,2013-06-13 19:47:57.243000000
+4,novice,My First Forest Scoring,0,2013-06-13 04:32:20.373000000
+2,novice,Question about Python Tutorial,0,2013-06-12 14:45:22.080000000
+6,contributor,Identify the crew?,0,2013-06-12 14:39:35.043000000
+1,novice,Weka output predictions to test file (not working),0,2013-06-12 01:40:48.307000000
+1,novice,Using time series to create epochs of scenario,0,2013-06-10 19:23:38.027000000
+0,novice,Random Forest Feature Importance fare \u003e age \u003e sex,0,2013-06-10 18:50:28.007000000
+38,novice,Is anybody using neural networks for the titanic problem?,6,2013-06-08 21:05:56.853000000
+2,novice,Using Matlab for ML,0,2013-06-02 20:12:44.423000000
+1,novice,calculated fields in Excel,0,2013-06-01 16:56:58.953000000
+2,novice,the test file doesn\u0027t have a-survived- field,0,2013-05-30 22:37:37.747000000
+3,novice,Submission judged as 0.0000,0,2013-05-30 14:49:59.080000000
+10,novice,Easy or difficult ?,0,2013-05-30 12:41:16.397000000
+12,expert,Is \u0027cabin\u0027 an important predictor?,4,2013-05-29 07:10:04.053000000
+4,novice,File write not complete - python,2,2013-05-28 12:04:05.443000000
+1,expert,"How do I combine the results (predictions) if I have generated predictions from say, randomforest, gbm, svm, nnet to get more accurate predictions?",0,2013-05-28 11:43:07.717000000
+9,contributor,Using other algorithms,0,2013-05-27 20:54:26.357000000
+2,expert,Algorithms not handling more than 32 categories of categorical variables.,0,2013-05-24 08:41:06.877000000
+0,expert,What parameters to change in random forest algorithm to improve the score?,0,2013-05-24 07:25:43.590000000
+2,contributor,Can we redistribute the data provided by Kaggle?,0,2013-05-18 14:26:11.433000000
+8,novice,How are you getting prediction values as integers ?,0,2013-05-16 10:40:24.353000000
+0,contributor,Stagnant Result,0,2013-05-11 16:24:46.783000000
+2,contributor,Java/Weka Example Classification Project,3,2013-04-29 15:58:56.237000000
+1,novice,I\u0027m a bit puzzled by the scoring...,0,2013-04-26 18:41:14.027000000
+4,contributor,New to this; CSV file for submission question,0,2013-04-22 17:34:49.290000000
+5,novice,Optimal value for kNN?,0,2013-04-19 14:29:28.623000000
+0,novice,peculiarity with ages of men scoring 2 on sibsp,0,2013-04-13 13:26:15.213000000
+1,novice,Adding an image?,0,2013-04-12 21:13:56.717000000
+2,contributor,My evaluations are always more optimistic than Kaggle\u0027s ... ?,0,2013-04-12 17:07:39.723000000
+2,contributor,gendermodel vs genderclassmodel,0,2013-04-10 05:17:11.330000000
+4,contributor,Some help with weka please !!!,0,2013-04-07 14:11:19.950000000
+3,novice,Dealing with non-numeric data,0,2013-04-02 23:24:05.817000000
+4,novice,How is accuracy calculated?,0,2013-03-27 13:55:57.177000000
+1,contributor,Sharing SAS Enterprise Miner XML Diagram,0,2013-03-21 15:08:02.173000000
+28,novice,Top 20 Kagglers - I am wondering what they are doing?,0,2013-03-21 08:16:16.400000000
+3,contributor,Which is a better strategy for a beginner?,0,2013-03-20 00:34:40.337000000
+0,novice,How many degree of freedom we have in our database,0,2013-03-19 12:20:03.937000000
+0,expert,Feature selection-how to select values for each bin,0,2013-03-16 03:57:45.850000000
+6,novice,R team members,0,2013-03-14 06:46:59.610000000
+1,novice,Is Regression Appropriate?,0,2013-03-05 14:35:24.370000000
+0,expert,Clarifying rules on sharing model information,0,2013-02-28 20:16:11.310000000
+1,contributor,dataset dictionary,0,2013-02-27 15:59:49.327000000
+1,contributor,Classifiers place too much weight on sex feature,0,2013-02-27 03:21:48.933000000
+1,novice,Do Control Subjects Have Parkinsons?,0,2013-02-27 02:00:14.493000000
+3,contributor,Fare meaning,2,2013-02-25 13:35:31.130000000
+0,novice,How should we approach a problem,0,2013-02-25 07:28:35.553000000
+3,novice,Biased Training Data Set?,1,2013-02-23 21:22:30.153000000
+1,contributor,Book Recommendation,0,2013-02-22 15:23:56.710000000
+5,contributor,R Code to test your model,1,2013-02-20 18:02:33.297000000
+0,novice,Pivot tables enough?,0,2013-02-20 15:57:10.570000000
+8,contributor,Reading train.csv file from Matlab,0,2013-02-19 03:42:20.117000000
+0,novice,Numpy,0,2013-02-13 12:07:31.147000000
+5,novice,Any group of men to survive?,0,2013-02-07 13:48:26.460000000
+4,contributor,R code for Logistic Regression - sharing,5,2013-02-01 01:32:32.117000000
+1,novice,Data Normalization,0,2013-01-30 22:26:15.257000000
+13,contributor,Basic R Code,3,2013-01-27 01:08:08.597000000
+0,master,Looking for partners!,0,2013-01-25 19:45:32.787000000
+1,contributor,External Data,0,2013-01-23 22:13:29.167000000
+0,novice,submission result,0,2013-01-20 04:45:06.470000000
+7,master,Test set and Titanic history,0,2013-01-09 14:00:35.697000000
+9,novice,Implications of Out-of-bag (OOB) error in Random Forest models,1,2013-01-08 10:35:17.147000000
+4,contributor,Newbie Question,0,2013-01-07 17:27:42.830000000
+2,novice,Pivot tables in R,0,2013-01-07 17:26:04.940000000
+3,contributor,Best Score in Python vs R,0,2013-01-06 17:25:09.727000000
+9,expert,Submission Limits,0,2013-01-03 17:16:59.290000000
+0,novice,Survival Tables Sense check,0,2013-01-03 06:00:35.470000000
+5,expert,Feature Selection and Boosting,0,2012-12-31 04:13:50.520000000
+0,novice,Problem with Weka adding an extra variable \u0027predictedsurvived\u0027 on final arff file,0,2012-12-30 19:30:36.137000000
+1,contributor,External data?,0,2012-12-28 15:55:22.967000000
+0,contributor,problematic bins,0,2012-12-24 09:04:32.127000000
+0,novice,unsorted data,0,2012-12-23 15:24:31.813000000
+12,novice,Weka Explorer Error - training and test set no compatible,0,2012-12-17 19:50:57.680000000
+5,novice,Very Basic R Program,0,2012-12-16 18:30:42.103000000
+1,novice,RandomForestClassifier output ,0,2012-12-15 01:44:26.203000000
+0,novice,General Query: Sampling ,0,2012-12-14 17:34:32.137000000
+2,novice,myfirstforest.py Handling train_data as np.string_,0,2012-12-13 16:45:02.323000000
+6,novice,Installing scikit-learn on Mac for RandomForestClassifier,0,2012-12-12 15:12:42.607000000
+2,contributor,Problem with submission,0,2012-12-12 14:25:49.613000000
+3,novice,Improving a classifier with unclassified data,0,2012-12-11 07:12:44.230000000
+1,novice,Dummy variable,0,2012-12-11 00:20:28.980000000
+11,novice,Help in R rattle - instead of coding,0,2012-12-10 12:22:03.617000000
+1,novice,Loading Numpy and Scipy Modules,0,2012-12-10 04:54:32.363000000
+2,contributor,Can I use the problem in my course project?,0,2012-12-09 22:28:05.947000000
+0,contributor,NaiveBayes - Attributes not in normal distribution,0,2012-12-09 14:00:38.963000000
+3,contributor,Weka - Converter - Import CSV with string attribute with commas and quotes,9,2012-12-06 21:39:59.977000000
+5,contributor,Cross Validation Methods,0,2012-12-05 06:31:59.980000000
+0,novice,Question on model evaluation,0,2012-12-04 00:19:38.827000000
+1,novice,My top 5 submissions?,0,2012-12-02 21:35:13.673000000
+1,novice,Looking for a Team,0,2012-12-01 17:27:47.100000000
+6,novice,Struggling with reading csv on Python,3,2012-11-30 22:11:21.560000000
+2,contributor,Self-scoring,0,2012-11-30 21:25:12.910000000
+2,novice,Can\u0027t create Survival Tables,0,2012-11-29 23:14:38.573000000
+5,novice,Python: Cannot Convert String to Float,2,2012-11-28 22:24:11.747000000
+10,novice,"Stuck, any ideas?",0,2012-11-28 10:26:30.487000000
+2,novice,import numpy np;,0,2012-11-25 18:16:29.420000000
+26,contributor,Dealing with Missing values for Age \u0026 Cabin,0,2012-11-25 11:25:56.427000000
+1,novice,Private Leader board Confusion ? ,0,2012-11-24 08:08:52.533000000
+12,novice,Best Visualization tool ?,0,2012-11-21 07:52:16.347000000
+2,novice,How does KPI\u0027s help in model building?,0,2012-11-20 10:12:08.520000000
+5,novice,Cross-validation and submission results,0,2012-11-17 13:04:08.080000000
+0,novice,What Matters in Predictive Modeling : Correlation among variable or Causal Relationship,0,2012-11-15 07:49:44.010000000
+9,novice,Experimenting for variable selection in predictive modelling,0,2012-11-14 06:27:55.240000000
+8,contributor,number of entries per day,1,2012-11-13 22:23:52.567000000
+1,novice,Text mining,0,2012-11-13 02:09:18.393000000
+3,novice,Changes on the leaderboard,0,2012-11-13 02:03:57.037000000
+2,novice,question: calculation used in genderbasemodelpy.csv,0,2012-11-10 13:17:30.367000000
+0,novice,Python \u003e Numpy Type Conversion,0,2012-11-09 22:27:48.097000000
+5,novice,Help Diagnosing Model,0,2012-11-08 04:31:38.723000000
+6,novice,Clarification for Newbies,1,2012-11-06 16:39:13.167000000
+1,novice,Python coding problem,0,2012-10-30 18:55:30.180000000
+7,contributor,SVM classification applied to pre-processed training data,2,2012-10-30 08:29:02.607000000
+1,novice,Titanic - final files,1,2012-10-28 10:30:26.167000000
+2,novice,can get the data in python,0,2012-10-26 03:19:30.273000000
+16,novice,Way to learn strategies?,2,2012-10-25 16:24:49.883000000
+2,novice,invalid syntax when adding fare_ceiling,0,2012-10-23 21:03:50.157000000
+2,novice,Data Link Broken,0,2012-10-23 15:28:34.087000000
+2,novice,Trouble with Python,0,2012-10-23 04:08:51.133000000
+18,contributor,How do you cope with missing values?,1,2012-10-22 14:06:52.640000000
+12,contributor,Issues with the Leaderboard,0,2012-10-19 18:41:01.913000000
+2,novice,Help for Logistic Regression,0,2012-10-18 03:03:11.603000000
+11,novice,Score 0.00000 when submitting,4,2012-10-17 16:15:18.120000000
